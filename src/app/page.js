@@ -52,16 +52,14 @@ export default function Home() {
                   Get Started
                 </a>
 
-                <button class="learn-more button flex items-center">
-                  <a href="tel:+918939801621">
-                    <span class="circle bg-gray-600" aria-hidden="true">
-                      <span class="icon arrow"></span>
-                    </span>
-                    <span class="button-text text-gray-100 text-lg -translate-y-1">
-                      Call us
-                    </span>
-                  </a>
-                </button>
+                <a href="tel:+918939801621" class="learn-more button flex items-center">
+                  <span class="circle bg-gray-600" aria-hidden="true">
+                    <span class="icon arrow"></span>
+                  </span>
+                  <span class="button-text text-gray-100 text-lg -translate-y-1">
+                    Call us
+                  </span>
+                </a>
               </div>
             </div>
           </div>
@@ -106,7 +104,7 @@ export default function Home() {
                     href="/pages/aboutus.html"
                     class="mt-8 inline-block rounded text-gray-900 bg-[#FBD46D] px-12 py-3 text-lg font-medium focus:outline-none focus:ring transition-all ease-in-out hover:text-gray-100 hover:bg-gray-600"
                   >
-                    {/* Lets GO --> */}
+                    Read More {"-->"}
                   </a>
                 </div>
               </div>
