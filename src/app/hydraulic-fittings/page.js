@@ -35,7 +35,7 @@ const HydrauliFittings = () => {
             />
             <div class="relative bg-white p-6">
               <span class="whitespace-nowrap bg-yellow-400 px-3 py-1.5 text-xs font-medium">
-                Category
+                Hydraulic Fittings
               </span>
 
               <h3 class="mt-4 text-lg font-medium text-gray-900">
@@ -67,7 +67,7 @@ const HydrauliFittings = () => {
             />
             <div class="relative bg-white p-6">
               <span class="whitespace-nowrap bg-yellow-400 px-3 py-1.5 text-xs font-medium">
-                Category
+                Hydraulic Fittings
               </span>
 
               <h3 class="mt-4 text-lg font-medium text-gray-900">
@@ -75,7 +75,6 @@ const HydrauliFittings = () => {
               </h3>
 
               <div class="flex justify-between items-center">
-                <p class="mt-1.5 text-sm text-gray-700">$14.99</p>
                 <a href="#" class="mt-1.5 text-sm text-indigo-700 underline">
                   Contact Us {"-->"}
                 </a>
@@ -100,7 +99,7 @@ const HydrauliFittings = () => {
             />
             <div class="relative bg-white p-6">
               <span class="whitespace-nowrap bg-yellow-400 px-3 py-1.5 text-xs font-medium">
-                Category
+                Hydraulic Fittings
               </span>
 
               <h3 class="mt-4 text-lg font-medium text-gray-900">
@@ -108,7 +107,6 @@ const HydrauliFittings = () => {
               </h3>
 
               <div class="flex justify-between items-center">
-                <p class="mt-1.5 text-sm text-gray-700">$14.99</p>
                 <a href="#" class="mt-1.5 text-sm text-indigo-700 underline">
                   Contact Us {"-->"}
                 </a>
@@ -133,7 +131,7 @@ const HydrauliFittings = () => {
             />
             <div class="relative bg-white p-6">
               <span class="whitespace-nowrap bg-yellow-400 px-3 py-1.5 text-xs font-medium">
-                Category
+                Hydraulic Fittings
               </span>
 
               <h3 class="mt-4 text-lg font-medium text-gray-900">
@@ -165,7 +163,7 @@ const HydrauliFittings = () => {
             />
             <div class="relative bg-white p-6">
               <span class="whitespace-nowrap bg-yellow-400 px-3 py-1.5 text-xs font-medium">
-                Category
+                Hydraulic Fittings
               </span>
 
               <h3 class="mt-4 text-lg font-medium text-gray-900">
@@ -173,7 +171,6 @@ const HydrauliFittings = () => {
               </h3>
 
               <div class="flex justify-between items-center">
-                <p class="mt-1.5 text-sm text-gray-700">$14.99</p>
                 <a href="#" class="mt-1.5 text-sm text-indigo-700 underline">
                   Contact Us {"-->"}
                 </a>
@@ -198,7 +195,7 @@ const HydrauliFittings = () => {
             />
             <div class="relative bg-white p-6">
               <span class="whitespace-nowrap bg-yellow-400 px-3 py-1.5 text-xs font-medium">
-                Category
+                Hydraulic Fittings
               </span>
 
               <h3 class="mt-4 text-lg font-medium text-gray-900">
@@ -230,7 +227,7 @@ const HydrauliFittings = () => {
             />
             <div class="relative bg-white p-6">
               <span class="whitespace-nowrap bg-yellow-400 px-3 py-1.5 text-xs font-medium">
-                Category
+                Hydraulic Fittings
               </span>
 
               <h3 class="mt-4 text-lg font-medium text-gray-900">
@@ -262,7 +259,7 @@ const HydrauliFittings = () => {
             />
             <div class="relative bg-white p-6">
               <span class="whitespace-nowrap bg-yellow-400 px-3 py-1.5 text-xs font-medium">
-                Category
+                Hydraulic Fittings
               </span>
 
               <h3 class="mt-4 text-lg font-medium text-gray-900">
@@ -270,7 +267,6 @@ const HydrauliFittings = () => {
               </h3>
 
               <div class="flex justify-between items-center">
-                <p class="mt-1.5 text-sm text-gray-700">$14.99</p>
                 <a href="#" class="mt-1.5 text-sm text-indigo-700 underline">
                   Contact Us {"-->"}
                 </a>
@@ -295,7 +291,7 @@ const HydrauliFittings = () => {
             />
             <div class="relative bg-white p-6">
               <span class="whitespace-nowrap bg-yellow-400 px-3 py-1.5 text-xs font-medium">
-                Category
+                Hydraulic Fittings
               </span>
 
               <h3 class="mt-4 text-lg font-medium text-gray-900">
@@ -303,7 +299,6 @@ const HydrauliFittings = () => {
               </h3>
 
               <div class="flex justify-between items-center">
-                <p class="mt-1.5 text-sm text-gray-700">$14.99</p>
                 <a href="#" class="mt-1.5 text-sm text-indigo-700 underline">
                   Contact Us {"-->"}
                 </a>
@@ -328,7 +323,7 @@ const HydrauliFittings = () => {
             />
             <div class="relative bg-white p-6">
               <span class="whitespace-nowrap bg-yellow-400 px-3 py-1.5 text-xs font-medium">
-                Category
+                Hydraulic Fittings
               </span>
 
               <h3 class="mt-4 text-lg font-medium text-gray-900">
@@ -336,7 +331,6 @@ const HydrauliFittings = () => {
               </h3>
 
               <div class="flex justify-between items-center">
-                <p class="mt-1.5 text-sm text-gray-700">$14.99</p>
                 <a href="#" class="mt-1.5 text-sm text-indigo-700 underline">
                   Contact Us {"-->"}
                 </a>
@@ -361,7 +355,7 @@ const HydrauliFittings = () => {
             />
             <div class="relative bg-white p-6">
               <span class="whitespace-nowrap bg-yellow-400 px-3 py-1.5 text-xs font-medium">
-                Category
+                Hydraulic Fittings
               </span>
 
               <h3 class="mt-4 text-lg font-medium text-gray-900">
@@ -369,7 +363,6 @@ const HydrauliFittings = () => {
               </h3>
 
               <div class="flex justify-between items-center">
-                <p class="mt-1.5 text-sm text-gray-700">$14.99</p>
                 <a href="#" class="mt-1.5 text-sm text-indigo-700 underline">
                   Contact Us {"-->"}
                 </a>

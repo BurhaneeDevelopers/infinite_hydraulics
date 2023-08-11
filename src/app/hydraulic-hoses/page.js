@@ -54,49 +54,49 @@ const HydraulicHoses = () => {
           </button>
           <button
             class="p-4 px-8 bg-gray-200 rounded-md lg:text-lg md:w-1/5 lg:w-1/6"
-            onClick={() => handleFilter("WaterBlastHose")}
+            onClick={() => handleFilter("WaterHose")}
           >
             Water Blast Hoses
           </button>
           <button
             class="p-4 px-8 bg-gray-200 rounded-md lg:text-lg md:w-1/5 lg:w-1/6"
-            onClick={() => handleFilter("ThermoPlasticHose")}
+            onClick={() => handleFilter("ThermoHose")}
           >
             Thermo Plastic Hoses
           </button>
           <button
             class="p-4 px-8 bg-gray-200 rounded-md lg:text-lg md:w-1/5 lg:w-1/6"
-            onClick={() => handleFilter("HighPressureHose")}
+            onClick={() => handleFilter("ChemicalHose")}
           >
             Chemical Hoses
           </button>
           <button
             class="p-4 px-8 bg-gray-200 rounded-md lg:text-lg md:w-1/5 lg:w-1/6"
-            onClick={() => handleFilter("HighPressureHose")}
+            onClick={() => handleFilter("CompositeHose")}
           >
             Composite Hoses
           </button>
           <button
             class="p-4 px-8 bg-gray-200 rounded-md lg:text-lg md:w-1/5 lg:w-1/6"
-            onClick={() => handleFilter("HighPressureHose")}
+            onClick={() => handleFilter("TeflonHose")}
           >
             SS Teflon Hoses
           </button>
           <button
             class="p-4 px-8 bg-gray-200 rounded-md lg:text-lg md:w-1/5 lg:w-1/6"
-            onClick={() => handleFilter("HighPressureHose")}
+            onClick={() => handleFilter("BelowHose")}
           >
             SS Below Hoses
           </button>
           <button
             class="p-4 px-8 bg-gray-200 rounded-md lg:text-lg md:w-1/5 lg:w-1/6"
-            onClick={() => handleFilter("HighPressureHose")}
+            onClick={() => handleFilter("IndustrialHose")}
           >
             Industrial Hoses
           </button>
           <button
             class="p-4 px-8 bg-gray-200 rounded-md lg:text-lg md:w-1/5 lg:w-1/6"
-            onClick={() => handleFilter("HighPressureHose")}
+            onClick={() => handleFilter("AgriHose")}
           >
             Agricultural Hoses
           </button>

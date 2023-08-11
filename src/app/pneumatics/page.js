@@ -35,7 +35,7 @@ const Pneumatic = () => {
             />
             <div class="relative bg-white p-6">
               <span class="whitespace-nowrap bg-yellow-400 px-3 py-1.5 text-xs font-medium">
-                Category
+                Pneumatics
               </span>
 
               <h3 class="mt-4 text-lg font-medium text-gray-900">
@@ -67,7 +67,7 @@ const Pneumatic = () => {
             />
             <div class="relative bg-white p-6">
               <span class="whitespace-nowrap bg-yellow-400 px-3 py-1.5 text-xs font-medium">
-                Category
+                Pneumatics
               </span>
 
               <h3 class="mt-4 text-lg font-medium text-gray-900">
@@ -99,7 +99,7 @@ const Pneumatic = () => {
             />
             <div class="relative bg-white p-6">
               <span class="whitespace-nowrap bg-yellow-400 px-3 py-1.5 text-xs font-medium">
-                Category
+                Pneumatics
               </span>
 
               <h3 class="mt-4 text-lg font-medium text-gray-900">
@@ -131,7 +131,7 @@ const Pneumatic = () => {
             />
             <div class="relative bg-white p-6">
               <span class="whitespace-nowrap bg-yellow-400 px-3 py-1.5 text-xs font-medium">
-                Category
+                Pneumatics
               </span>
 
               <h3 class="mt-4 text-lg font-medium text-gray-900">
@@ -163,7 +163,7 @@ const Pneumatic = () => {
             />
             <div class="relative bg-white p-6">
               <span class="whitespace-nowrap bg-yellow-400 px-3 py-1.5 text-xs font-medium">
-                Category
+                Pneumatics
               </span>
 
               <h3 class="mt-4 text-lg font-medium text-gray-900">FRL Unit</h3>
@@ -193,7 +193,7 @@ const Pneumatic = () => {
             />
             <div class="relative bg-white p-6">
               <span class="whitespace-nowrap bg-yellow-400 px-3 py-1.5 text-xs font-medium">
-                Category
+                Pneumatics
               </span>
 
               <h3 class="mt-4 text-lg font-medium text-gray-900">
@@ -201,7 +201,6 @@ const Pneumatic = () => {
               </h3>
 
               <div class="flex justify-between items-center">
-                <p class="mt-1.5 text-sm text-gray-700">$14.99</p>
                 <a href="#" class="mt-1.5 text-sm text-indigo-700 underline">
                   Contact Us {"-->"}
                 </a>
@@ -226,7 +225,7 @@ const Pneumatic = () => {
             />
             <div class="relative bg-white p-6">
               <span class="whitespace-nowrap bg-yellow-400 px-3 py-1.5 text-xs font-medium">
-                Category
+                Pneumatics
               </span>
 
               <h3 class="mt-4 text-lg font-medium text-gray-900">
@@ -258,7 +257,7 @@ const Pneumatic = () => {
             />
             <div class="relative bg-white p-6">
               <span class="whitespace-nowrap bg-yellow-400 px-3 py-1.5 text-xs font-medium">
-                Category
+                Pneumatics
               </span>
 
               <h3 class="mt-4 text-lg font-medium text-gray-900">Manifold</h3>
@@ -288,7 +287,7 @@ const Pneumatic = () => {
             />
             <div class="relative bg-white p-6">
               <span class="whitespace-nowrap bg-yellow-400 px-3 py-1.5 text-xs font-medium">
-                Category
+                Pneumatics
               </span>
 
               <h3 class="mt-4 text-lg font-medium text-gray-900">
@@ -320,7 +319,7 @@ const Pneumatic = () => {
             />
             <div class="relative bg-white p-6">
               <span class="whitespace-nowrap bg-yellow-400 px-3 py-1.5 text-xs font-medium">
-                Category
+                Pneumatics
               </span>
 
               <h3 class="mt-4 text-lg font-medium text-gray-900">
@@ -352,7 +351,7 @@ const Pneumatic = () => {
             />
             <div class="relative bg-white p-6">
               <span class="whitespace-nowrap bg-yellow-400 px-3 py-1.5 text-xs font-medium">
-                Category
+                Pneumatics
               </span>
 
               <h3 class="mt-4 text-lg font-medium text-gray-900">
@@ -384,7 +383,7 @@ const Pneumatic = () => {
             />
             <div class="relative bg-white p-6">
               <span class="whitespace-nowrap bg-yellow-400 px-3 py-1.5 text-xs font-medium">
-                Category
+                Pneumatics
               </span>
 
               <h3 class="mt-4 text-lg font-medium text-gray-900">
@@ -392,7 +391,6 @@ const Pneumatic = () => {
               </h3>
 
               <div class="flex justify-between items-center">
-                <p class="mt-1.5 text-sm text-gray-700">$14.99</p>
                 <a href="#" class="mt-1.5 text-sm text-indigo-700 underline">
                   Contact Us {"-->"}
                 </a>

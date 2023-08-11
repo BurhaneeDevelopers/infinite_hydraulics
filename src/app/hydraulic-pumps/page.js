@@ -35,7 +35,7 @@ const HydraulicPumps = () => {
             />
             <div class="relative bg-white p-6">
               <span class="whitespace-nowrap bg-yellow-400 px-3 py-1.5 text-xs font-medium">
-                Category
+                Hydraulic Pumps
               </span>
 
               <h3 class="mt-4 text-lg font-medium text-gray-900">Vane Pumps</h3>
@@ -65,7 +65,7 @@ const HydraulicPumps = () => {
             />
             <div class="relative bg-white p-6">
               <span class="whitespace-nowrap bg-yellow-400 px-3 py-1.5 text-xs font-medium">
-                Category
+                Hydraulic Pumps
               </span>
 
               <h3 class="mt-4 text-lg font-medium text-gray-900">Gear Pumps</h3>
@@ -95,7 +95,7 @@ const HydraulicPumps = () => {
             />
             <div class="relative bg-white p-6">
               <span class="whitespace-nowrap bg-yellow-400 px-3 py-1.5 text-xs font-medium">
-                Category
+                Hydraulic Pumps
               </span>
 
               <h3 class="mt-4 text-lg font-medium text-gray-900">Hand Pumps</h3>
@@ -125,7 +125,7 @@ const HydraulicPumps = () => {
             />
             <div class="relative bg-white p-6">
               <span class="whitespace-nowrap bg-yellow-400 px-3 py-1.5 text-xs font-medium">
-                Category
+                Hydraulic Pumps
               </span>
 
               <h3 class="mt-4 text-lg font-medium text-gray-900">
@@ -157,7 +157,7 @@ const HydraulicPumps = () => {
             />
             <div class="relative bg-white p-6">
               <span class="whitespace-nowrap bg-yellow-400 px-3 py-1.5 text-xs font-medium">
-                Category
+                Hydraulic Pumps
               </span>
 
               <h3 class="mt-4 text-lg font-medium text-gray-900">
@@ -189,7 +189,7 @@ const HydraulicPumps = () => {
             />
             <div class="relative bg-white p-6">
               <span class="whitespace-nowrap bg-yellow-400 px-3 py-1.5 text-xs font-medium">
-                Category
+                Hydraulic Pumps
               </span>
 
               <h3 class="mt-4 text-lg font-medium text-gray-900">

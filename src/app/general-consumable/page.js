@@ -70,9 +70,7 @@ const GeneralConsumable = () => {
           </h2>
 
           <p class="mt-4 text-[#4F8A8B] max-w-lg mx-auto">
-            Lorem ipsum, dolor sit amet consectetur adipisicing elit.
-            Consequuntur aliquam doloribus nesciunt eos fugiat. Vitae aperiam
-            fugit consequuntur saepe laborum.
+          Hand tools, Safety items, and Power tools play crucial roles in maintaining a safe and productive working environment in various industries. 
           </p>
         </div>
 
