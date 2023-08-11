@@ -17,8 +17,9 @@ const Footer = () => {
             </p>
 
             <a
-              href="#"
+              href="/banner.jpg"
               class="inline-block px-12 py-3 mt-8 text-sm font-medium text-[#4F8A8B] border border-[#4F8A8B] hover:border-transparent rounded-full hover:text-gray-100 hover:bg-gray-600"
+              download
             >
               Download our Catalogue
             </a>
@@ -114,7 +115,11 @@ const Footer = () => {
                 >
                   <span class="sr-only">IndiaMart</span>
 
-                  {/* <img src="/icons/indiamart.svg" alt="Indiamart" class="w-10"> */}
+                  <img
+                    src="/icons/indiamart.svg"
+                    alt="Indiamart"
+                    class="w-10"
+                  />
                 </a>
               </li>
             </ul>

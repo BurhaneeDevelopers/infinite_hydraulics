@@ -43,7 +43,10 @@ const HydrauliFittings = () => {
               </h3>
 
               <div class="flex justify-between items-center">
-                <a href="#" class="mt-1.5 text-sm text-indigo-700 underline">
+                <a
+                  href="https://wa.me/+918939801621?text=Hello sir...I want to enquire more about your products in detail."
+                  class="mt-1.5 text-sm text-green-800 hover:scale-110 transition-all duration-300 ease-in-out"
+                >
                   Contact Us {"-->"}
                 </a>
               </div>
@@ -75,7 +78,10 @@ const HydrauliFittings = () => {
               </h3>
 
               <div class="flex justify-between items-center">
-                <a href="#" class="mt-1.5 text-sm text-indigo-700 underline">
+                <a
+                  href="https://wa.me/+918939801621?text=Hello sir...I want to enquire more about your products in detail."
+                  class="mt-1.5 text-sm text-green-800 hover:scale-110 transition-all duration-300 ease-in-out"
+                >
                   Contact Us {"-->"}
                 </a>
               </div>
@@ -107,7 +113,10 @@ const HydrauliFittings = () => {
               </h3>
 
               <div class="flex justify-between items-center">
-                <a href="#" class="mt-1.5 text-sm text-indigo-700 underline">
+                <a
+                  href="https://wa.me/+918939801621?text=Hello sir...I want to enquire more about your products in detail."
+                  class="mt-1.5 text-sm text-green-800 hover:scale-110 transition-all duration-300 ease-in-out"
+                >
                   Contact Us {"-->"}
                 </a>
               </div>
@@ -139,7 +148,10 @@ const HydrauliFittings = () => {
               </h3>
 
               <div class="flex justify-between items-center">
-                <a href="#" class="mt-1.5 text-sm text-indigo-700 underline">
+                <a
+                  href="https://wa.me/+918939801621?text=Hello sir...I want to enquire more about your products in detail."
+                  class="mt-1.5 text-sm text-green-800 hover:scale-110 transition-all duration-300 ease-in-out"
+                >
                   Contact Us {"-->"}
                 </a>
               </div>
@@ -171,7 +183,10 @@ const HydrauliFittings = () => {
               </h3>
 
               <div class="flex justify-between items-center">
-                <a href="#" class="mt-1.5 text-sm text-indigo-700 underline">
+                <a
+                  href="https://wa.me/+918939801621?text=Hello sir...I want to enquire more about your products in detail."
+                  class="mt-1.5 text-sm text-green-800 hover:scale-110 transition-all duration-300 ease-in-out"
+                >
                   Contact Us {"-->"}
                 </a>
               </div>
@@ -203,7 +218,10 @@ const HydrauliFittings = () => {
               </h3>
 
               <div class="flex justify-between items-center">
-                <a href="#" class="mt-1.5 text-sm text-indigo-700 underline">
+                <a
+                  href="https://wa.me/+918939801621?text=Hello sir...I want to enquire more about your products in detail."
+                  class="mt-1.5 text-sm text-green-800 hover:scale-110 transition-all duration-300 ease-in-out"
+                >
                   Contact Us {"-->"}
                 </a>
               </div>
@@ -235,7 +253,10 @@ const HydrauliFittings = () => {
               </h3>
 
               <div class="flex justify-between items-center">
-                <a href="#" class="mt-1.5 text-sm text-indigo-700 underline">
+                <a
+                  href="https://wa.me/+918939801621?text=Hello sir...I want to enquire more about your products in detail."
+                  class="mt-1.5 text-sm text-green-800 hover:scale-110 transition-all duration-300 ease-in-out"
+                >
                   Contact Us {"-->"}
                 </a>
               </div>
@@ -267,7 +288,10 @@ const HydrauliFittings = () => {
               </h3>
 
               <div class="flex justify-between items-center">
-                <a href="#" class="mt-1.5 text-sm text-indigo-700 underline">
+                <a
+                  href="https://wa.me/+918939801621?text=Hello sir...I want to enquire more about your products in detail."
+                  class="mt-1.5 text-sm text-green-800 hover:scale-110 transition-all duration-300 ease-in-out"
+                >
                   Contact Us {"-->"}
                 </a>
               </div>
@@ -299,7 +323,10 @@ const HydrauliFittings = () => {
               </h3>
 
               <div class="flex justify-between items-center">
-                <a href="#" class="mt-1.5 text-sm text-indigo-700 underline">
+                <a
+                  href="https://wa.me/+918939801621?text=Hello sir...I want to enquire more about your products in detail."
+                  class="mt-1.5 text-sm text-green-800 hover:scale-110 transition-all duration-300 ease-in-out"
+                >
                   Contact Us {"-->"}
                 </a>
               </div>
@@ -331,7 +358,10 @@ const HydrauliFittings = () => {
               </h3>
 
               <div class="flex justify-between items-center">
-                <a href="#" class="mt-1.5 text-sm text-indigo-700 underline">
+                <a
+                  href="https://wa.me/+918939801621?text=Hello sir...I want to enquire more about your products in detail."
+                  class="mt-1.5 text-sm text-green-800 hover:scale-110 transition-all duration-300 ease-in-out"
+                >
                   Contact Us {"-->"}
                 </a>
               </div>
@@ -363,7 +393,10 @@ const HydrauliFittings = () => {
               </h3>
 
               <div class="flex justify-between items-center">
-                <a href="#" class="mt-1.5 text-sm text-indigo-700 underline">
+                <a
+                  href="https://wa.me/+918939801621?text=Hello sir...I want to enquire more about your products in detail."
+                  class="mt-1.5 text-sm text-green-800 hover:scale-110 transition-all duration-300 ease-in-out"
+                >
                   Contact Us {"-->"}
                 </a>
               </div>

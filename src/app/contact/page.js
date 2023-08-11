@@ -181,7 +181,7 @@ const Contact = () => {
                 marginheight="0"
                 marginwidth="0"
                 scrolling="no"
-                src="https://maps.google.com/maps?width=100%&amp;height=600&amp;hl=en&amp;q=%C4%B0zmir+(My%20Business%20Name)&amp;ie=UTF8&amp;t=&amp;z=14&amp;iwloc=B&amp;output=embed"
+                src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15544.425097852676!2d80.2875866!3d13.0924507!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a526f8da38d65bb%3A0x7a06817feb8341ff!2sInfinite%20Hydraulics%20Solutions!5e0!3m2!1sen!2sin!4v1691757422655!5m2!1sen!2sin"
               ></iframe>
             </div>
           </div>

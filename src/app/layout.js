@@ -23,6 +23,10 @@ export default function RootLayout({ children }) {
           <Navbar />
           {children}
           <Footer />
+          <script
+            src="https://kit.fontawesome.com/4647efb575.js"
+            crossorigin="anonymous"
+          />
           <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
         </body>
       </html>
