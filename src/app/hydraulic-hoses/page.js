@@ -26,7 +26,7 @@ const HydraulicHoses = () => {
           </h2>
 
           <p class="mt-4 text-[#4F8A8B] max-w-lg mx-auto">
-            A hydraulic hose is a specialist type of hose that you'll find in
+            A hydraulic hose is a specialist type of hose that you&apos;ll find in
             many commercial and industrial settings. Hydraulic hoses are
             typically constructed from flexible rubber or wire, and feature a
             series of layers to give the hose its strength and durability.
@@ -133,12 +133,12 @@ const HydraulicHoses = () => {
               </div>
 
               <div class="mt-4">
-                <label
-                  for="my-modal-4"
+                <a
+                  href="/Catalogue/IHS-Catalogue.pdf#page=25"
                   class="block w-full rounded bg-[#FBD46D] text-center p-4 text-sm font-medium transition hover:scale-105 cursor-pointer"
                 >
                   Show Details
-                </label>
+                </a>
               </div>
             </div>
           </div>
@@ -171,12 +171,12 @@ const HydraulicHoses = () => {
               </div>
 
               <div class="mt-4">
-                <label
-                  for="my-modal-4"
+                <a
+                  href="/Catalogue/IHS-Catalogue.pdf#page=25"
                   class="block w-full rounded bg-[#FBD46D] text-center p-4 text-sm font-medium transition hover:scale-105 cursor-pointer"
                 >
                   Show Details
-                </label>
+                </a>
               </div>
             </div>
           </div>
@@ -209,12 +209,12 @@ const HydraulicHoses = () => {
               </div>
 
               <div class="mt-4">
-                <label
-                  for="my-modal-4"
+                <a
+                  href="/Catalogue/IHS-Catalogue.pdf#page=25"
                   class="block w-full rounded bg-[#FBD46D] text-center p-4 text-sm font-medium transition hover:scale-105 cursor-pointer"
                 >
                   Show Details
-                </label>
+                </a>
               </div>
             </div>
           </div>
@@ -245,12 +245,12 @@ const HydraulicHoses = () => {
               </div>
 
               <div class="mt-4">
-                <label
-                  for="my-modal-4"
+                <a
+                  href="/Catalogue/IHS-Catalogue.pdf#page=25"
                   class="block w-full rounded bg-[#FBD46D] text-center p-4 text-sm font-medium transition hover:scale-105 cursor-pointer"
                 >
                   Show Details
-                </label>
+                </a>
               </div>
             </div>
           </div>
@@ -280,12 +280,12 @@ const HydraulicHoses = () => {
               </div>
 
               <div class="mt-4">
-                <label
-                  for="my-modal-4"
+                <a
+                  href="/Catalogue/IHS-Catalogue.pdf#page=25"
                   class="block w-full rounded bg-[#FBD46D] text-center p-4 text-sm font-medium transition hover:scale-105 cursor-pointer"
                 >
                   Show Details
-                </label>
+                </a>
               </div>
             </div>
           </div>
@@ -315,12 +315,12 @@ const HydraulicHoses = () => {
               </div>
 
               <div class="mt-4">
-                <label
-                  for="my-modal-4"
+                <a
+                  href="/Catalogue/IHS-Catalogue.pdf#page=25"
                   class="block w-full rounded bg-[#FBD46D] text-center p-4 text-sm font-medium transition hover:scale-105 cursor-pointer"
                 >
                   Show Details
-                </label>
+                </a>
               </div>
             </div>
           </div>
@@ -351,12 +351,12 @@ const HydraulicHoses = () => {
               </div>
 
               <div class="mt-4">
-                <label
-                  for="my-modal-4"
+                <a
+                  href="/Catalogue/IHS-Catalogue.pdf#page=25"
                   class="block w-full rounded bg-[#FBD46D] text-center p-4 text-sm font-medium transition hover:scale-105 cursor-pointer"
                 >
                   Show Details
-                </label>
+                </a>
               </div>
             </div>
           </div>
@@ -387,12 +387,12 @@ const HydraulicHoses = () => {
               </div>
 
               <div class="mt-4">
-                <label
-                  for="my-modal-4"
+                <a
+                  href="/Catalogue/IHS-Catalogue.pdf#page=25"
                   class="block w-full rounded bg-[#FBD46D] text-center p-4 text-sm font-medium transition hover:scale-105 cursor-pointer"
                 >
                   Show Details
-                </label>
+                </a>
               </div>
             </div>
           </div>
@@ -424,12 +424,12 @@ const HydraulicHoses = () => {
               </div>
 
               <div class="mt-4">
-                <label
-                  for="my-modal-4"
+                <a
+                  href="/Catalogue/IHS-Catalogue.pdf#page=25"
                   class="block w-full rounded bg-[#FBD46D] text-center p-4 text-sm font-medium transition hover:scale-105 cursor-pointer"
                 >
                   Show Details
-                </label>
+                </a>
               </div>
             </div>
           </div>
@@ -460,12 +460,12 @@ const HydraulicHoses = () => {
               </div>
 
               <div class="mt-4">
-                <label
-                  for="my-modal-4"
+                <a
+                  href="/Catalogue/IHS-Catalogue.pdf#page=25"
                   class="block w-full rounded bg-[#FBD46D] text-center p-4 text-sm font-medium transition hover:scale-105 cursor-pointer"
                 >
                   Show Details
-                </label>
+                </a>
               </div>
             </div>
           </div>
@@ -496,12 +496,12 @@ const HydraulicHoses = () => {
               </div>
 
               <div class="mt-4">
-                <label
-                  for="my-modal-4"
+                <a
+                  href="/Catalogue/IHS-Catalogue.pdf#page=25"
                   class="block w-full rounded bg-[#FBD46D] text-center p-4 text-sm font-medium transition hover:scale-105 cursor-pointer"
                 >
                   Show Details
-                </label>
+                </a>
               </div>
             </div>
           </div>
@@ -532,12 +532,12 @@ const HydraulicHoses = () => {
               </div>
 
               <div class="mt-4">
-                <label
-                  for="my-modal-4"
+                <a
+                  href="/Catalogue/IHS-Catalogue.pdf#page=25"
                   class="block w-full rounded bg-[#FBD46D] text-center p-4 text-sm font-medium transition hover:scale-105 cursor-pointer"
                 >
                   Show Details
-                </label>
+                </a>
               </div>
             </div>
           </div>
@@ -568,12 +568,12 @@ const HydraulicHoses = () => {
               </div>
 
               <div class="mt-4">
-                <label
-                  for="my-modal-4"
+                <a
+                  href="/Catalogue/IHS-Catalogue.pdf#page=25"
                   class="block w-full rounded bg-[#FBD46D] text-center p-4 text-sm font-medium transition hover:scale-105 cursor-pointer"
                 >
                   Show Details
-                </label>
+                </a>
               </div>
             </div>
           </div>
@@ -606,12 +606,12 @@ const HydraulicHoses = () => {
               </div>
 
               <div class="mt-4">
-                <label
-                  for="my-modal-4"
+                <a
+                  href="/Catalogue/IHS-Catalogue.pdf#page=25"
                   class="block w-full rounded bg-[#FBD46D] text-center p-4 text-sm font-medium transition hover:scale-105 cursor-pointer"
                 >
                   Show Details
-                </label>
+                </a>
               </div>
             </div>
           </div>
@@ -641,12 +641,12 @@ const HydraulicHoses = () => {
               </div>
 
               <div class="mt-4">
-                <label
-                  for="my-modal-4"
+                <a
+                  href="/Catalogue/IHS-Catalogue.pdf#page=25"
                   class="block w-full rounded bg-[#FBD46D] text-center p-4 text-sm font-medium transition hover:scale-105 cursor-pointer"
                 >
                   Show Details
-                </label>
+                </a>
               </div>
             </div>
           </div>
@@ -676,12 +676,12 @@ const HydraulicHoses = () => {
               </div>
 
               <div class="mt-4">
-                <label
-                  for="my-modal-4"
+                <a
+                  href="/Catalogue/IHS-Catalogue.pdf#page=25"
                   class="block w-full rounded bg-[#FBD46D] text-center p-4 text-sm font-medium transition hover:scale-105 cursor-pointer"
                 >
                   Show Details
-                </label>
+                </a>
               </div>
             </div>
           </div>
@@ -711,12 +711,12 @@ const HydraulicHoses = () => {
               </div>
 
               <div class="mt-4">
-                <label
-                  for="my-modal-4"
+                <a
+                  href="/Catalogue/IHS-Catalogue.pdf#page=25"
                   class="block w-full rounded bg-[#FBD46D] text-center p-4 text-sm font-medium transition hover:scale-105 cursor-pointer"
                 >
                   Show Details
-                </label>
+                </a>
               </div>
             </div>
           </div>

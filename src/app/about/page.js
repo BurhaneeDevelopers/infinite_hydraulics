@@ -119,7 +119,7 @@ const About = () => {
                   through the use of our systems. Our team is dedicated to
                   staying up-to-date on the latest technologies and trends in
                   the field, allowing you to provide cutting-edge solutions to
-                  our clients, whether it's designing custom hydraulic systems,
+                  our clients, whether it&apos;s designing custom hydraulic systems,
                   installing pneumatic equipment, or providing routine
                   maintenance services, we bring a wealth of knowledge and
                   experience to every project you undertake. At our hydraulics
@@ -130,7 +130,7 @@ const About = () => {
                   safety. we work closely with our clients to understand their
                   unique needs and requirements, and we tailor our solutions to
                   meet those needs in the most effective and efficient way
-                  possible. Our company's commitment to excellence and customer
+                  possible. Our company&apos;s commitment to excellence and customer
                   satisfaction is evident in everything you do. From our
                   state-of-the-art facilities to our experienced and
                   knowledgeable team, we are dedicated to providing the best
@@ -413,7 +413,7 @@ const About = () => {
           <div class="grid grid-cols-1 gap-y-8 lg:grid-cols-3 lg:gap-x-16">
             <div class="sm:w-full">
               <h3 class="text-3xl font-bold tracking-tight sm:text-4xl text-start">
-                Don't just take our word for it...
+                Don&apos;t just take our word for it...
                 <br class="hidden sm:block lg:hidden" />
                 Read reviews from our customers
               </h3>
@@ -518,7 +518,7 @@ const About = () => {
 
                         <div class="mt-4">
                           <p class="text-2xl font-bold text-600 text-[#4F8A8B] sm:text-3xl">
-                            Stayin' Alive
+                            Stayin&apos; Alive
                           </p>
 
                           <p class="mt-4 leading-relaxed text-gray-500">
@@ -589,7 +589,7 @@ const About = () => {
 
                         <div class="mt-4">
                           <p class="text-2xl font-bold text-600 text-[#4F8A8B] sm:text-3xl">
-                            Stayin' Alive
+                            Stayin&apos; Alive
                           </p>
 
                           <p class="mt-4 leading-relaxed text-gray-500">
@@ -660,7 +660,7 @@ const About = () => {
 
                         <div class="mt-4">
                           <p class="text-2xl font-bold text-600 text-[#4F8A8B] sm:text-3xl">
-                            Stayin' Alive
+                            Stayin&apos; Alive
                           </p>
 
                           <p class="mt-4 leading-relaxed text-gray-500">

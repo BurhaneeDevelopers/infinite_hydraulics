@@ -2,7 +2,7 @@ import "./globals.css";
 import { Inter } from "next/font/google";
 import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
-import Head from "next/head";
+import Script from "next/script";
 
 const inter = Inter({ subsets: ["latin"] });
 
@@ -23,11 +23,12 @@ export default function RootLayout({ children }) {
           <Navbar />
           {children}
           <Footer />
-          <script
+          <Script
             src="https://kit.fontawesome.com/4647efb575.js"
             crossorigin="anonymous"
+            async
           />
-          <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
+          <Script async src="https://unpkg.com/swiper/swiper-bundle.min.js" />
         </body>
       </html>
     </>

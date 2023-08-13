@@ -52,7 +52,7 @@ const Testimonial = () => {
           <div class="grid grid-cols-1 gap-y-8 lg:grid-cols-3 lg:gap-x-16">
             <div class="sm:w-full">
               <h3 class="text-3xl font-bold tracking-tight sm:text-4xl text-start">
-                Don't just take our word for it...
+                Don&apos;t just take our word for it...
                 <br class="hidden sm:block lg:hidden" />
                 Read reviews from our customers
               </h3>

@@ -226,7 +226,7 @@ export default function Home() {
       <section class="py-20">
         <div class="flex flex-col items-center text-center justify-center mb-10">
           <h2 class="text-2xl font-semibold text-gray-800 capitalize lg:text-5xl">
-            Let's Connect
+            Let&apos;s Connect
           </h2>
 
           <div class="">
