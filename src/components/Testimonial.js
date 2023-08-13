@@ -113,25 +113,7 @@ const Testimonial = () => {
                       name: "yobuddy",
                     }}
                   />
-                  
-                  <Slide
-                    details={{
-                      title: "something",
-                      content:
-                        "lorem20 someting lorem20 sometinglorem20 sometinglorem20 sometinglorem20 sometinglorem20 sometinglorem20 sometinglorem20 sometinglorem20 sometinglorem20 someting",
-                      name: "yobuddy",
-                    }}
-                  />
-                  
-                  <Slide
-                    details={{
-                      title: "something",
-                      content:
-                        "lorem20 someting lorem20 sometinglorem20 sometinglorem20 sometinglorem20 sometinglorem20 sometinglorem20 sometinglorem20 sometinglorem20 sometinglorem20 someting",
-                      name: "yobuddy",
-                    }}
-                  
-                  />
+
                   <Slide
                     details={{
                       title: "something",
@@ -141,6 +123,22 @@ const Testimonial = () => {
                     }}
                   />
 
+                  <Slide
+                    details={{
+                      title: "something",
+                      content:
+                        "lorem20 someting lorem20 sometinglorem20 sometinglorem20 sometinglorem20 sometinglorem20 sometinglorem20 sometinglorem20 sometinglorem20 sometinglorem20 someting",
+                      name: "yobuddy",
+                    }}
+                  />
+                  <Slide
+                    details={{
+                      title: "something",
+                      content:
+                        "lorem20 someting lorem20 sometinglorem20 sometinglorem20 sometinglorem20 sometinglorem20 sometinglorem20 sometinglorem20 sometinglorem20 sometinglorem20 someting",
+                      name: "yobuddy",
+                    }}
+                  />
                 </div>
               </div>
             </div>
@@ -149,7 +147,7 @@ const Testimonial = () => {
           <div class="mt-8 flex justify-center gap-4 lg:hidden">
             <button
               aria-label="Previous slide"
-              class="prev-button rounded-full border border-pink-600 p-4 text-pink-600 hover:bg-pink-600 hover:text-white"
+              class="prev-button rounded-full border border-[#4f8A8B] p-4 text-[#4f8A8B] hover:bg-[#4f8A8B] hover:text-white"
             >
               <svg
                 class="h-5 w-5 -rotate-180 transform"
@@ -169,7 +167,7 @@ const Testimonial = () => {
 
             <button
               aria-label="Next slide"
-              class="next-button rounded-full border border-pink-600 p-4 text-pink-600 hover:bg-pink-600 hover:text-white"
+              class="next-button rounded-full border border-[#4f8A8B] p-4 text-[#4f8A8B] hover:bg-[#4f8A8B] hover:text-white"
             >
               <svg
                 class="h-5 w-5"

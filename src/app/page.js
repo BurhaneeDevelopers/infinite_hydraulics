@@ -1,5 +1,6 @@
 "use client";
 import Testimonial from "@/components/Testimonial";
+import Link from "next/link";
 
 export default function Home() {
   return (
@@ -111,12 +112,12 @@ export default function Home() {
             {/* <!-- <p class="mt-1.5 text-sm text-gray-700">$14.99</p> --> */}
 
             <div class="mt-4">
-              <a
-                href="Pages/HydraulicHoses.html"
+              <Link
+                href="/hydraulic-hoses"
                 class="block w-full rounded bg-[#FBD46D] text-center p-4 text-sm font-medium transition hover:scale-105"
               >
                 View Products
-              </a>
+              </Link>
             </div>
           </div>
         </div>
@@ -141,12 +142,12 @@ export default function Home() {
             {/* <!-- <p class="mt-1.5 text-sm text-gray-700">$14.99</p> --> */}
 
             <div class="mt-4">
-              <a
-                href="pages/hydraulic-Fittings.html"
+              <Link
+                href="/hydraulic-fittings"
                 class="block w-full rounded bg-[#FBD46D] text-center p-4 text-sm font-medium transition hover:scale-105"
               >
                 View Products
-              </a>
+              </Link>
             </div>
           </div>
         </div>
@@ -169,12 +170,12 @@ export default function Home() {
             {/* <!-- <p class="mt-1.5 text-sm text-gray-700">$14.99</p> --> */}
 
             <div class="mt-4">
-              <a
-                href="pages/industrial-Valves.html"
+              <Link
+                href="/industrial-valves"
                 class="block w-full rounded bg-[#FBD46D] text-center p-4 text-sm font-medium transition hover:scale-105"
               >
                 View Products
-              </a>
+              </Link>
             </div>
           </div>
         </div>
@@ -238,7 +239,7 @@ export default function Home() {
         <div class="flex flex-col max-w-4xl mx-auto overflow-hidden bg-white rounded-lg shadow-lg md:flex-row md:h-48">
           <div class="md:flex md:items-center md:justify-center md:w-1/2 md:bg-[#FBD46D]">
             <div class="px-6 py-6 md:px-8 md:py-0">
-              <h2 class="text-lg font-bold text-gray-700 text-left">
+              <h2 class="text-lg font-bold text-gray-700">
                 Connect<span class="text-[#4F8A8B]"> With </span> Us
               </h2>
 
