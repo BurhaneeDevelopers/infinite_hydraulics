@@ -23,12 +23,12 @@ export default function RootLayout({ children }) {
           <Navbar />
           {children}
           <Footer />
-          <Script
+          <script
             src="https://kit.fontawesome.com/4647efb575.js"
             crossorigin="anonymous"
             async
           />
-          <Script async src="https://unpkg.com/swiper/swiper-bundle.min.js" />
+          <script async src="https://unpkg.com/swiper/swiper-bundle.min.js" />
         </body>
       </html>
     </>
