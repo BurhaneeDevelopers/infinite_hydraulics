@@ -33,25 +33,24 @@ const About = () => {
   }, []);
   return (
     <div>
- 
       {/* <!-- Banner --> */}
-      <div class="bg-[url(/banner.jpg)] h-80 w-full flex justify-center items-center bg-cover bg-center">
+      <div className="bg-[url(/banner.jpg)] h-80 w-full flex justify-center items-center bg-cover bg-center">
         {/* <!-- CONTENT  --> */}
-        <div class="bg-gray-200/10 h-80 w-full flex justify-center items-center flex-col">
-          {/* <!-- <h1 class="text-white text-6xl my-2">Hydraulics< tex-[#07031A]/h1> --> */}
-          <nav aria-label="Breadcrumb" class="flex">
+        <div className="bg-gray-200/10 h-80 w-full flex justify-center items-center flex-col">
+          {/* <!-- <h1 className="text-white text-6xl my-2">Hydraulics< tex-[#07031A]/h1> --> */}
+          <nav aria-label="Breadcrumb" className="flex">
             <ol
               role="list"
-              class="flex overflow-hidden rounded-lg border border-gray-200 text-[#4F8A8B]"
+              className="flex overflow-hidden rounded-lg border border-gray-200 text-[#4F8A8B]"
             >
-              <li class="flex items-center">
+              <li className="flex items-center">
                 <a
                   href="#"
-                  class="flex h-14 items-center bg-gray-100 px-4 transition hover:text-gray-900"
+                  className="flex h-14 items-center bg-gray-100 px-4 transition hover:text-gray-900"
                 >
                   <svg
                     xmlns="http://www.w3.org/2000/svg"
-                    class="h-6 w-6"
+                    className="h-6 w-6"
                     fill="none"
                     viewBox="0 0 24 24"
                     stroke="currentColor"
@@ -64,16 +63,16 @@ const About = () => {
                     />
                   </svg>
 
-                  <span class="ml-1.5 text-lg font-medium"> Home </span>
+                  <span className="ml-1.5 text-lg font-medium"> Home </span>
                 </a>
               </li>
 
-              <li class="relative flex items-center">
-                <span class="absolute inset-y-0 -left-px h-14 w-4 bg-gray-100 [clip-path:_polygon(0_0,_0%_100%,_100%_50%)]"></span>
+              <li className="relative flex items-center">
+                <span className="absolute inset-y-0 -left-px h-14 w-4 bg-gray-100 [clip-path:_polygon(0_0,_0%_100%,_100%_50%)]"></span>
 
                 <a
                   href="#"
-                  class="flex h-14 items-center bg-white pl-8 pr-4 text-lg font-medium transition text-[#07031A] hover:text-gray-500"
+                  className="flex h-14 items-center bg-white pl-8 pr-4 text-lg font-medium transition text-[#07031A] hover:text-gray-500"
                 >
                   About us
                 </a>
@@ -87,24 +86,24 @@ const About = () => {
 
       {/* <!-- About  --> */}
       <section>
-        <div class="mx-auto max-w-screen-2xl px-4 py-16 sm:px-6 lg:px-8">
-          <div class="lg:grid-cols-2">
-            <div class="relative flex items-center bg-gray-200">
+        <div className="mx-auto max-w-screen-2xl px-4 py-16 sm:px-6 lg:px-8">
+          <div className="lg:grid-cols-2">
+            <div className="relative flex items-center bg-gray-200">
               {/* <!-- <span
-              class="hidden lg:absolute lg:inset-y-0 lg:-left-16 lg:block lg:w-16 lg:bg-gray-200"
+              className="hidden lg:absolute lg:inset-y-0 lg:-left-16 lg:block lg:w-16 lg:bg-gray-200"
             ></span> --> */}
 
-              <div class="p-8 sm:p-16 lg:p-24">
-                <h2 class="text-2xl font-bold sm:text-3xl">
+              <div className="p-8 sm:p-16 lg:p-24">
+                <h2 className="text-2xl font-bold sm:text-3xl">
                   Know who we are!
-                  <div class="">
-                    <span class="inline-block w-40 h-1 bg-[#4F8A8B] rounded-full"></span>
-                    <span class="inline-block w-3 h-1 ml-1 bg-[#4F8A8B] rounded-full"></span>
-                    <span class="inline-block w-1 h-1 ml-1 bg-[#4F8A8B] rounded-full"></span>
+                  <div className="">
+                    <span className="inline-block w-40 h-1 bg-[#4F8A8B] rounded-full"></span>
+                    <span className="inline-block w-3 h-1 ml-1 bg-[#4F8A8B] rounded-full"></span>
+                    <span className="inline-block w-1 h-1 ml-1 bg-[#4F8A8B] rounded-full"></span>
                   </div>
                 </h2>
 
-                <p class="mt-4 text-gray-600 about">
+                <p className="mt-4 text-gray-600 about">
                   At our <span>Hydraulics and Pneumatics Company</span>, our
                   focus is on providing innovative solutions that utilize the
                   power of fluids and gases to drive machinery and equipment.
@@ -119,8 +118,8 @@ const About = () => {
                   through the use of our systems. Our team is dedicated to
                   staying up-to-date on the latest technologies and trends in
                   the field, allowing you to provide cutting-edge solutions to
-                  our clients, whether it&apos;s designing custom hydraulic systems,
-                  installing pneumatic equipment, or providing routine
+                  our clients, whether it&apos;s designing custom hydraulic
+                  systems, installing pneumatic equipment, or providing routine
                   maintenance services, we bring a wealth of knowledge and
                   experience to every project you undertake. At our hydraulics
                   and pneumatics company, we understand the importance of
@@ -130,9 +129,9 @@ const About = () => {
                   safety. we work closely with our clients to understand their
                   unique needs and requirements, and we tailor our solutions to
                   meet those needs in the most effective and efficient way
-                  possible. Our company&apos;s commitment to excellence and customer
-                  satisfaction is evident in everything you do. From our
-                  state-of-the-art facilities to our experienced and
+                  possible. Our company&apos;s commitment to excellence and
+                  customer satisfaction is evident in everything you do. From
+                  our state-of-the-art facilities to our experienced and
                   knowledgeable team, we are dedicated to providing the best
                   possible service to our clients. We are proud of our
                   reputation as a leader in the hydraulics and pneumatics
@@ -142,7 +141,7 @@ const About = () => {
                 </p>
 
                 {/* <!-- <a href="#"
-                            class="mt-8 inline-block rounded text-gray-900 bg-[#FBD46D] px-12 py-3 text-sm font-medium focus:outline-none focus:ring transition-all ease-in-out hover:bg-transparent hover:border hover:border-[#FBD46D]">
+                            className="mt-8 inline-block rounded text-gray-900 bg-[#FBD46D] px-12 py-3 text-sm font-medium focus:outline-none focus:ring transition-all ease-in-out hover:bg-transparent hover:border hover:border-[#FBD46D]">
                             Lets GO
                         </a> --> */}
               </div>
@@ -151,38 +150,41 @@ const About = () => {
         </div>
 
         {/* <!-- section_1 --> */}
-        <div class="max-w-screen-2xl mx-auto px-4 py-16 lg:py-24 relative bg-gray-50">
-          <div class="flex flex-col md:flex-row gap-2">
-            <div class="flex flex-1 flex-col gap-2">
-              <div class="flex flex-1 flex-col">
+        <div className="max-w-screen-2xl mx-auto px-4 py-16 lg:py-24 relative bg-gray-50">
+          <div className="flex flex-col md:flex-row gap-2">
+            <div className="flex flex-1 flex-col gap-2">
+              <div className="flex flex-1 flex-col">
                 {/* <!-- img_01 Hoses--> */}
-                <img class="object-cover h-full" src="/industrialhoses.jpg" />
+                <img
+                  className="object-cover h-full"
+                  src="/industrialhoses.jpg"
+                />
               </div>
-              <div class="hidden md:flex flex-1 flex-row gap-2">
-                <div class="flex flex-1 flex-col">
+              <div className="hidden md:flex flex-1 flex-row gap-2">
+                <div className="flex flex-1 flex-col">
                   {/* <!-- img_02 Pneumatics--> */}
-                  <img class="object-cover h-full" src="/pneumatics.jpg" />
+                  <img className="object-cover h-full" src="/pneumatics.jpg" />
                 </div>
-                <div class="hidden md:flex flex-1 flex-col">
+                <div className="hidden md:flex flex-1 flex-col">
                   {/* <!-- img_03 Fittings--> */}
-                  <img class="object-cover h-full" src="/fittings.jpg" />
+                  <img className="object-cover h-full" src="/fittings.jpg" />
                 </div>
               </div>
             </div>
-            <div class="flex flex-1 flex-col gap-2">
-              <div class="hidden md:flex flex-1 flex-row gap-2">
-                <div class="flex flex-1 flex-col">
+            <div className="flex flex-1 flex-col gap-2">
+              <div className="hidden md:flex flex-1 flex-row gap-2">
+                <div className="flex flex-1 flex-col">
                   {/* <!-- img_04 --> */}
-                  <img class="object-cover h-full" src="/pipes&tubes.jpg" />
+                  <img className="object-cover h-full" src="/pipes&tubes.jpg" />
                 </div>
-                <div class="hidden md:flex flex-1 flex-col">
+                <div className="hidden md:flex flex-1 flex-col">
                   {/* <!-- img_05 --> */}
-                  <img class="object-cover h-full" src="/powertools.jpg" />
+                  <img className="object-cover h-full" src="/powertools.jpg" />
                 </div>
               </div>
-              <div class="flex flex-1 flex-col">
+              <div className="flex flex-1 flex-col">
                 {/* <!-- img_06 --> */}
-                <img class="object-cover h-full" src="/rubberseals.jpg" />
+                <img className="object-cover h-full" src="/rubberseals.jpg" />
               </div>
             </div>
           </div>
@@ -191,21 +193,21 @@ const About = () => {
 
       {/* <!-- Services --> */}
       <section id="services">
-        <div class="row">
-          <h2 class="text-2xl font-bold sm:text-3xl">
+        <div className="row">
+          <h2 className="text-2xl font-bold sm:text-3xl">
             Our Services
-            <div class="">
-              <span class="inline-block w-40 h-1 bg-[#4F8A8B] rounded-full"></span>
-              <span class="inline-block w-3 h-1 ml-1 bg-[#4F8A8B] rounded-full"></span>
-              <span class="inline-block w-1 h-1 ml-1 bg-[#4F8A8B] rounded-full"></span>
+            <div className="">
+              <span className="inline-block w-40 h-1 bg-[#4F8A8B] rounded-full"></span>
+              <span className="inline-block w-3 h-1 ml-1 bg-[#4F8A8B] rounded-full"></span>
+              <span className="inline-block w-1 h-1 ml-1 bg-[#4F8A8B] rounded-full"></span>
             </div>
           </h2>
         </div>
-        <div class="row">
-          <div class="column">
-            <div class="card">
-              <div class="icon-wrapper">
-                <i class="fa-solid fa-handshake"></i>
+        <div className="row">
+          <div className="column">
+            <div className="card">
+              <div className="icon-wrapper">
+                <i className="fa-solid fa-handshake"></i>
               </div>
               <h3>Quality Products</h3>
               <p>
@@ -214,10 +216,10 @@ const About = () => {
               </p>
             </div>
           </div>
-          <div class="column">
-            <div class="card2">
-              <div class="icon-wrapper2">
-                <i class="fa-solid fa-truck"></i>
+          <div className="column">
+            <div className="card2">
+              <div className="icon-wrapper2">
+                <i className="fa-solid fa-truck"></i>
               </div>
               <h3>Fastest Delivery</h3>
               <p>
@@ -227,10 +229,10 @@ const About = () => {
               </p>
             </div>
           </div>
-          <div class="column">
-            <div class="card">
-              <div class="icon-wrapper">
-                <i class="fa-solid fa-hand-holding-dollar"></i>
+          <div className="column">
+            <div className="card">
+              <div className="icon-wrapper">
+                <i className="fa-solid fa-hand-holding-dollar"></i>
               </div>
               <h3>Best Rates</h3>
               <p>
@@ -242,151 +244,151 @@ const About = () => {
         </div>
       </section>
 
-      <div class="p-10">
-        <div class="flex flex-col items-center text-center justify-center mb-10">
-          <h2 class="text-2xl font-semibold text-gray-800 capitalize lg:text-5xl">
+      <div className="p-10">
+        <div className="flex flex-col items-center text-center justify-center mb-10">
+          <h2 className="text-2xl font-semibold text-gray-800 capitalize lg:text-5xl">
             We deal in
           </h2>
 
-          <div class="">
-            <span class="inline-block w-40 h-1 bg-[#FBD46D] rounded-full"></span>
-            <span class="inline-block w-3 h-1 ml-1 bg-[#FBD46D] rounded-full"></span>
-            <span class="inline-block w-1 h-1 ml-1 bg-[#FBD46D] rounded-full"></span>
+          <div className="">
+            <span className="inline-block w-40 h-1 bg-[#FBD46D] rounded-full"></span>
+            <span className="inline-block w-3 h-1 ml-1 bg-[#FBD46D] rounded-full"></span>
+            <span className="inline-block w-1 h-1 ml-1 bg-[#FBD46D] rounded-full"></span>
           </div>
         </div>
 
-        <section class="flex justify-center items-center">
+        <section className="flex justify-center items-center">
           <marquee behavior="scroll" direction="horizontal" scrollamount="20">
-            <div class="flex gap-12">
+            <div className="flex gap-12">
               <img
                 loading="lazy"
-                class="w-40 object-contain"
+                className="w-40 object-contain"
                 src="https://www.polyhose.com/wp-content/uploads/2018/05/main-logo.png"
               />
 
               <img
                 loading="lazy"
-                class="w-40 object-contain"
+                className="w-40 object-contain"
                 src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Parker.svg/1200px-Parker.svg.png"
               />
 
               <img
                 loading="lazy"
-                class="w-40 object-contain"
+                className="w-40 object-contain"
                 src="https://logos-world.net/wp-content/uploads/2022/07/Gates-Emblem.png"
               />
 
               <img
                 loading="lazy"
-                class="w-40 object-contain"
+                className="w-40 object-contain"
                 src="https://www.manuli-hydraulics.com/wp-content/uploads/2021/05/Manuli_Hydraulics_HP_Logo-1.png"
               />
 
               <img
                 loading="lazy"
-                class="w-40 object-contain"
+                className="w-40 object-contain"
                 src="https://polyhydron.com/pplimage_misc/Logo%20Foundation.png"
               />
 
               <img
                 loading="lazy"
-                class="w-40 object-contain"
+                className="w-40 object-contain"
                 src="https://upload.wikimedia.org/wikipedia/commons/9/99/Janatics_Pneumatics_logo.png"
               />
 
               <img
                 loading="lazy"
-                class="w-40 object-contain"
+                className="w-40 object-contain"
                 src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Logo_SMC_Corporation.svg/1200px-Logo_SMC_Corporation.svg.png"
               />
 
               <img
                 loading="lazy"
-                class="w-40 object-contain"
+                className="w-40 object-contain"
                 src="https://www.liblogo.com/img-logo/fe6844fd7b-festo-logo-festo-automation-pneumatic-amp-electrical-automation--automation.png"
               />
 
               <img
                 loading="lazy"
-                class="w-40 object-contain"
+                className="w-40 object-contain"
                 src="https://airautomation.com/wp-content/uploads/2020/11/Nitto-Kohki-Logo.png"
               />
 
               <img
                 loading="lazy"
-                class="w-40 object-contain"
+                className="w-40 object-contain"
                 src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Logo_of_Bosch_Rexroth_AG.svg/1200px-Logo_of_Bosch_Rexroth_AG.svg.png"
               />
 
               <img
                 loading="lazy"
-                class="w-40 object-contain"
+                className="w-40 object-contain"
                 src="https://www.flw.com/images/brands/wika/wika.jpg"
               />
 
               <img
                 loading="lazy"
-                class="w-40 object-contain"
+                className="w-40 object-contain"
                 src="https://5.imimg.com/data5/SELLER/Default/2021/2/HT/LR/XD/40491793/pump-pressure-gauge-500x500.png"
               />
 
               <img
                 loading="lazy"
-                class="w-40 object-contain"
+                className="w-40 object-contain"
                 src="https://yuken-usa.com/wp-content/uploads/2021/11/YukenTranspar.gif"
               />
 
               <img
                 loading="lazy"
-                class="w-40 object-contain"
+                className="w-40 object-contain"
                 src="https://ashishhydraulics.com/admin_panel/admin/product_images/Pumps_17-07_dowty.jpg"
               />
 
               <img
                 loading="lazy"
-                class="w-40 object-contain"
+                className="w-40 object-contain"
                 src="https://w7.pngwing.com/pngs/723/866/png-transparent-jsw-group-india-jsw-steel-ltd-chief-executive-conglomerate-india-blue-company-text-thumbnail.png"
               />
 
               <img
                 loading="lazy"
-                class="w-40 object-contain"
+                className="w-40 object-contain"
                 src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Tata_logo.svg/2231px-Tata_logo.svg.png"
               />
 
               <img
                 loading="lazy"
-                class="w-40 object-contain"
+                className="w-40 object-contain"
                 src="https://karam.in/india/wp-content/uploads/sites/3/2020/03/KARAM-Logo-white-Copy.png"
               />
 
               <img
                 loading="lazy"
-                class="w-40 object-contain"
+                className="w-40 object-contain"
                 src="https://www.venusohs.com/wp-content/uploads/2023/01/cropped-VENUS-LOGO-New-1.jpg"
               />
 
               <img
                 loading="lazy"
-                class="w-40 object-contain"
+                className="w-40 object-contain"
                 src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Stanley_Hand_Tools_logo.svg/2560px-Stanley_Hand_Tools_logo.svg.png"
               />
 
               <img
                 loading="lazy"
-                class="w-40 object-contain"
+                className="w-40 object-contain"
                 src="https://logos-world.net/wp-content/uploads/2020/08/Bosch-Logo.png"
               />
 
               <img
                 loading="lazy"
-                class="w-40 object-contain"
+                className="w-40 object-contain"
                 src="https://play-lh.googleusercontent.com/5AfibCNOZQmDu3FowNKlN5AtCvXNK6vuZDn9ju98htt4RQGclKv0lFXCE-Mv9q7YbQ=w600-h300-pc0xffffff-pd"
               />
 
               <img
                 loading="lazy"
-                class="w-40 object-contain"
+                className="w-40 object-contain"
                 src="https://seeklogo.com/images/T/taparia-logo-31FDB5AD69-seeklogo.com.png"
               />
             </div>
@@ -395,40 +397,40 @@ const About = () => {
       </div>
 
       {/* <!-- Testimonial  --> */}
-      <section class="bg-gray-200 pt-14">
-        <div class="flex flex-col items-center text-center justify-center">
-          <h2 class="text-2xl font-semibold text-gray-800 capitalize lg:text-5xl">
+      <section className="bg-gray-200 pt-14">
+        <div className="flex flex-col items-center text-center justify-center">
+          <h2 className="text-2xl font-semibold text-gray-800 capitalize lg:text-5xl">
             See What Our Customers
             <br />
             Have To Say
           </h2>
 
-          <div class="">
-            <span class="inline-block w-40 h-1 bg-[#FBD46D] rounded-full"></span>
-            <span class="inline-block w-3 h-1 ml-1 bg-[#FBD46D] rounded-full"></span>
-            <span class="inline-block w-1 h-1 ml-1 bg-[#FBD46D] rounded-full"></span>
+          <div className="">
+            <span className="inline-block w-40 h-1 bg-[#FBD46D] rounded-full"></span>
+            <span className="inline-block w-3 h-1 ml-1 bg-[#FBD46D] rounded-full"></span>
+            <span className="inline-block w-1 h-1 ml-1 bg-[#FBD46D] rounded-full"></span>
           </div>
         </div>
-        <div class="mx-auto max-w-[1340px] px-4 py-16 sm:px-6 sm:py-24">
-          <div class="grid grid-cols-1 gap-y-8 lg:grid-cols-3 lg:gap-x-16">
-            <div class="sm:w-full">
-              <h3 class="text-3xl font-bold tracking-tight sm:text-4xl text-start">
+        <div className="mx-auto max-w-[1340px] px-4 py-16 sm:px-6 sm:py-24">
+          <div className="grid grid-cols-1 gap-y-8 lg:grid-cols-3 lg:gap-x-16">
+            <div className="sm:w-full">
+              <h3 className="text-3xl font-bold tracking-tight sm:text-4xl text-start">
                 Don&apos;t just take our word for it...
-                <br class="hidden sm:block lg:hidden" />
+                <br className="hidden sm:block lg:hidden" />
                 Read reviews from our customers
               </h3>
 
-              <p class="mt-4 text-gray-500">
+              <p className="mt-4 text-gray-500">
                 Lorem ipsum, dolor sit amet consectetur adipisicing elit.
                 Voluptas veritatis illo placeat harum porro optio fugit a culpa
                 sunt id!
               </p>
 
-              <div class="hidden lg:mt-8 lg:flex lg:gap-4">
-                <button class="prev-button rounded-full border border-600 border-[#4F8A8B] p-3 text-600 text-[#4F8A8B] hover:bg-600 hover:bg-[#4F8A8B] hover:text-white">
-                  <span class="sr-only">Previous Slide</span>
+              <div className="hidden lg:mt-8 lg:flex lg:gap-4">
+                <button className="prev-button rounded-full border border-600 border-[#4F8A8B] p-3 text-600 text-[#4F8A8B] hover:bg-600 hover:bg-[#4F8A8B] hover:text-white">
+                  <span className="sr-only">Previous Slide</span>
                   <svg
-                    class="h-5 w-5 -rotate-180 transform"
+                    className="h-5 w-5 -rotate-180 transform"
                     fill="none"
                     stroke="currentColor"
                     viewBox="0 0 24 24"
@@ -443,10 +445,10 @@ const About = () => {
                   </svg>
                 </button>
 
-                <button class="next-button rounded-full border border-600 border-[#4F8A8B] p-3 text-600 text-[#4F8A8B] hover:bg-600 hover:bg-[#4F8A8B] hover:text-white">
-                  <span class="sr-only">Next Slide</span>
+                <button className="next-button rounded-full border border-600 border-[#4F8A8B] p-3 text-600 text-[#4F8A8B] hover:bg-600 hover:bg-[#4F8A8B] hover:text-white">
+                  <span className="sr-only">Next Slide</span>
                   <svg
-                    class="h-5 w-5"
+                    className="h-5 w-5"
                     fill="none"
                     stroke="currentColor"
                     viewBox="0 0 24 24"
@@ -463,15 +465,15 @@ const About = () => {
               </div>
             </div>
 
-            <div class="-mx-6 lg:col-span-2 lg:mx-0">
-              <div class="swiper-container !overflow-hidden">
-                <div class="swiper-wrapper">
-                  <div class="swiper-slide">
-                    <blockquote class="flex h-full flex-col justify-between bg-white p-12">
+            <div className="-mx-6 lg:col-span-2 lg:mx-0">
+              <div className="swiper-container !overflow-hidden">
+                <div className="swiper-wrapper">
+                  <div className="swiper-slide">
+                    <blockquote className="flex h-full flex-col justify-between bg-white p-12">
                       <div>
-                        <div class="flex gap-0.5 text-500 text-[#4F8A8B]">
+                        <div className="flex gap-0.5 text-500 text-[#4F8A8B]">
                           <svg
-                            class="h-5 w-5"
+                            className="h-5 w-5"
                             fill="currentColor"
                             viewBox="0 0 20 20"
                             xmlns="http://www.w3.org/2000/svg"
@@ -480,7 +482,7 @@ const About = () => {
                           </svg>
 
                           <svg
-                            class="h-5 w-5"
+                            className="h-5 w-5"
                             fill="currentColor"
                             viewBox="0 0 20 20"
                             xmlns="http://www.w3.org/2000/svg"
@@ -489,7 +491,7 @@ const About = () => {
                           </svg>
 
                           <svg
-                            class="h-5 w-5"
+                            className="h-5 w-5"
                             fill="currentColor"
                             viewBox="0 0 20 20"
                             xmlns="http://www.w3.org/2000/svg"
@@ -498,7 +500,7 @@ const About = () => {
                           </svg>
 
                           <svg
-                            class="h-5 w-5"
+                            className="h-5 w-5"
                             fill="currentColor"
                             viewBox="0 0 20 20"
                             xmlns="http://www.w3.org/2000/svg"
@@ -507,7 +509,7 @@ const About = () => {
                           </svg>
 
                           <svg
-                            class="h-5 w-5"
+                            className="h-5 w-5"
                             fill="currentColor"
                             viewBox="0 0 20 20"
                             xmlns="http://www.w3.org/2000/svg"
@@ -516,12 +518,12 @@ const About = () => {
                           </svg>
                         </div>
 
-                        <div class="mt-4">
-                          <p class="text-2xl font-bold text-600 text-[#4F8A8B] sm:text-3xl">
+                        <div className="mt-4">
+                          <p className="text-2xl font-bold text-600 text-[#4F8A8B] sm:text-3xl">
                             Stayin&apos; Alive
                           </p>
 
-                          <p class="mt-4 leading-relaxed text-gray-500">
+                          <p className="mt-4 leading-relaxed text-gray-500">
                             No, Rose, they are not breathing. And they have no
                             arms or legs … Where are they? You know what? If we
                             come across somebody with no arms or legs, do we
@@ -531,18 +533,18 @@ const About = () => {
                         </div>
                       </div>
 
-                      <footer class="mt-8 text-sm text-gray-500">
+                      <footer className="mt-8 text-sm text-gray-500">
                         &mdash; Michael Scott
                       </footer>
                     </blockquote>
                   </div>
 
-                  <div class="swiper-slide">
-                    <blockquote class="flex h-full flex-col justify-between bg-white p-12">
+                  <div className="swiper-slide">
+                    <blockquote className="flex h-full flex-col justify-between bg-white p-12">
                       <div>
-                        <div class="flex gap-0.5 text-500 text-[#4F8A8B]">
+                        <div className="flex gap-0.5 text-500 text-[#4F8A8B]">
                           <svg
-                            class="h-5 w-5"
+                            className="h-5 w-5"
                             fill="currentColor"
                             viewBox="0 0 20 20"
                             xmlns="http://www.w3.org/2000/svg"
@@ -551,7 +553,7 @@ const About = () => {
                           </svg>
 
                           <svg
-                            class="h-5 w-5"
+                            className="h-5 w-5"
                             fill="currentColor"
                             viewBox="0 0 20 20"
                             xmlns="http://www.w3.org/2000/svg"
@@ -560,7 +562,7 @@ const About = () => {
                           </svg>
 
                           <svg
-                            class="h-5 w-5"
+                            className="h-5 w-5"
                             fill="currentColor"
                             viewBox="0 0 20 20"
                             xmlns="http://www.w3.org/2000/svg"
@@ -569,7 +571,7 @@ const About = () => {
                           </svg>
 
                           <svg
-                            class="h-5 w-5"
+                            className="h-5 w-5"
                             fill="currentColor"
                             viewBox="0 0 20 20"
                             xmlns="http://www.w3.org/2000/svg"
@@ -578,7 +580,7 @@ const About = () => {
                           </svg>
 
                           <svg
-                            class="h-5 w-5"
+                            className="h-5 w-5"
                             fill="currentColor"
                             viewBox="0 0 20 20"
                             xmlns="http://www.w3.org/2000/svg"
@@ -587,12 +589,12 @@ const About = () => {
                           </svg>
                         </div>
 
-                        <div class="mt-4">
-                          <p class="text-2xl font-bold text-600 text-[#4F8A8B] sm:text-3xl">
+                        <div className="mt-4">
+                          <p className="text-2xl font-bold text-600 text-[#4F8A8B] sm:text-3xl">
                             Stayin&apos; Alive
                           </p>
 
-                          <p class="mt-4 leading-relaxed text-gray-500">
+                          <p className="mt-4 leading-relaxed text-gray-500">
                             No, Rose, they are not breathing. And they have no
                             arms or legs … Where are they? You know what? If we
                             come across somebody with no arms or legs, do we
@@ -602,18 +604,18 @@ const About = () => {
                         </div>
                       </div>
 
-                      <footer class="mt-8 text-sm text-gray-500">
+                      <footer className="mt-8 text-sm text-gray-500">
                         &mdash; Michael Scott
                       </footer>
                     </blockquote>
                   </div>
 
-                  <div class="swiper-slide">
-                    <blockquote class="flex h-full flex-col justify-between bg-white p-12">
+                  <div className="swiper-slide">
+                    <blockquote className="flex h-full flex-col justify-between bg-white p-12">
                       <div>
-                        <div class="flex gap-0.5 text-500 text-[#4F8A8B]">
+                        <div className="flex gap-0.5 text-500 text-[#4F8A8B]">
                           <svg
-                            class="h-5 w-5"
+                            className="h-5 w-5"
                             fill="currentColor"
                             viewBox="0 0 20 20"
                             xmlns="http://www.w3.org/2000/svg"
@@ -622,7 +624,7 @@ const About = () => {
                           </svg>
 
                           <svg
-                            class="h-5 w-5"
+                            className="h-5 w-5"
                             fill="currentColor"
                             viewBox="0 0 20 20"
                             xmlns="http://www.w3.org/2000/svg"
@@ -631,7 +633,7 @@ const About = () => {
                           </svg>
 
                           <svg
-                            class="h-5 w-5"
+                            className="h-5 w-5"
                             fill="currentColor"
                             viewBox="0 0 20 20"
                             xmlns="http://www.w3.org/2000/svg"
@@ -640,7 +642,7 @@ const About = () => {
                           </svg>
 
                           <svg
-                            class="h-5 w-5"
+                            className="h-5 w-5"
                             fill="currentColor"
                             viewBox="0 0 20 20"
                             xmlns="http://www.w3.org/2000/svg"
@@ -649,7 +651,7 @@ const About = () => {
                           </svg>
 
                           <svg
-                            class="h-5 w-5"
+                            className="h-5 w-5"
                             fill="currentColor"
                             viewBox="0 0 20 20"
                             xmlns="http://www.w3.org/2000/svg"
@@ -658,12 +660,12 @@ const About = () => {
                           </svg>
                         </div>
 
-                        <div class="mt-4">
-                          <p class="text-2xl font-bold text-600 text-[#4F8A8B] sm:text-3xl">
+                        <div className="mt-4">
+                          <p className="text-2xl font-bold text-600 text-[#4F8A8B] sm:text-3xl">
                             Stayin&apos; Alive
                           </p>
 
-                          <p class="mt-4 leading-relaxed text-gray-500">
+                          <p className="mt-4 leading-relaxed text-gray-500">
                             No, Rose, they are not breathing. And they have no
                             arms or legs … Where are they? You know what? If we
                             come across somebody with no arms or legs, do we
@@ -673,7 +675,7 @@ const About = () => {
                         </div>
                       </div>
 
-                      <footer class="mt-8 text-sm text-gray-500">
+                      <footer className="mt-8 text-sm text-gray-500">
                         &mdash; Michael Scott
                       </footer>
                     </blockquote>
@@ -683,13 +685,13 @@ const About = () => {
             </div>
           </div>
 
-          <div class="mt-8 flex justify-center gap-4 lg:hidden">
+          <div className="mt-8 flex justify-center gap-4 lg:hidden">
             <button
               aria-label="Previous slide"
-              class="prev-button rounded-full border border-pink-600 p-4 text-pink-600 hover:bg-pink-600 hover:text-white"
+              className="prev-button rounded-full border border-pink-600 p-4 text-pink-600 hover:bg-pink-600 hover:text-white"
             >
               <svg
-                class="h-5 w-5 -rotate-180 transform"
+                className="h-5 w-5 -rotate-180 transform"
                 fill="none"
                 stroke="currentColor"
                 viewBox="0 0 24 24"
@@ -706,10 +708,10 @@ const About = () => {
 
             <button
               aria-label="Next slide"
-              class="next-button rounded-full border border-pink-600 p-4 text-pink-600 hover:bg-pink-600 hover:text-white"
+              className="next-button rounded-full border border-pink-600 p-4 text-pink-600 hover:bg-pink-600 hover:text-white"
             >
               <svg
-                class="h-5 w-5"
+                className="h-5 w-5"
                 fill="none"
                 stroke="currentColor"
                 viewBox="0 0 24 24"

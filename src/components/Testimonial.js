@@ -34,40 +34,40 @@ const Testimonial = () => {
   return (
     <div>
       {/* <!-- Testimonial  --> */}
-      <section class="bg-gray-200 pt-14">
-        <div class="flex flex-col items-center text-center justify-center">
-          <h2 class="text-2xl font-semibold text-gray-800 capitalize lg:text-5xl">
+      <section className="bg-gray-200 pt-14">
+        <div className="flex flex-col items-center text-center justify-center">
+          <h2 className="text-2xl font-semibold text-gray-800 capitalize lg:text-5xl">
             See What Our Customers
             <br />
             Have To Say
           </h2>
 
-          <div class="">
-            <span class="inline-block w-40 h-1 bg-[#FBD46D] rounded-full"></span>
-            <span class="inline-block w-3 h-1 ml-1 bg-[#FBD46D] rounded-full"></span>
-            <span class="inline-block w-1 h-1 ml-1 bg-[#FBD46D] rounded-full"></span>
+          <div className="">
+            <span className="inline-block w-40 h-1 bg-[#FBD46D] rounded-full"></span>
+            <span className="inline-block w-3 h-1 ml-1 bg-[#FBD46D] rounded-full"></span>
+            <span className="inline-block w-1 h-1 ml-1 bg-[#FBD46D] rounded-full"></span>
           </div>
         </div>
-        <div class="mx-auto max-w-[1340px] px-4 py-16 sm:px-6 sm:py-24">
-          <div class="grid grid-cols-1 gap-y-8 lg:grid-cols-3 lg:gap-x-16">
-            <div class="sm:w-full">
-              <h3 class="text-3xl font-bold tracking-tight sm:text-4xl text-start">
+        <div className="mx-auto max-w-[1340px] px-4 py-16 sm:px-6 sm:py-24">
+          <div className="grid grid-cols-1 gap-y-8 lg:grid-cols-3 lg:gap-x-16">
+            <div className="sm:w-full">
+              <h3 className="text-3xl font-bold tracking-tight sm:text-4xl text-start">
                 Don&apos;t just take our word for it...
-                <br class="hidden sm:block lg:hidden" />
+                <br className="hidden sm:block lg:hidden" />
                 Read reviews from our customers
               </h3>
 
-              <p class="mt-4 text-gray-500">
+              <p className="mt-4 text-gray-500">
                 Lorem ipsum, dolor sit amet consectetur adipisicing elit.
                 Voluptas veritatis illo placeat harum porro optio fugit a culpa
                 sunt id!
               </p>
 
-              <div class="hidden lg:mt-8 lg:flex lg:gap-4">
-                <button class="prev-button rounded-full border border-600 border-[#4F8A8B] p-3 text-600 text-[#4F8A8B] hover:bg-600 hover:bg-[#4F8A8B] hover:text-white">
-                  <span class="sr-only">Previous Slide</span>
+              <div className="hidden lg:mt-8 lg:flex lg:gap-4">
+                <button className="prev-button rounded-full border border-600 border-[#4F8A8B] p-3 text-600 text-[#4F8A8B] hover:bg-600 hover:bg-[#4F8A8B] hover:text-white">
+                  <span className="sr-only">Previous Slide</span>
                   <svg
-                    class="h-5 w-5 -rotate-180 transform"
+                    className="h-5 w-5 -rotate-180 transform"
                     fill="none"
                     stroke="currentColor"
                     viewBox="0 0 24 24"
@@ -82,10 +82,10 @@ const Testimonial = () => {
                   </svg>
                 </button>
 
-                <button class="next-button rounded-full border border-600 border-[#4F8A8B] p-3 text-600 text-[#4F8A8B] hover:bg-600 hover:bg-[#4F8A8B] hover:text-white">
-                  <span class="sr-only">Next Slide</span>
+                <button className="next-button rounded-full border border-600 border-[#4F8A8B] p-3 text-600 text-[#4F8A8B] hover:bg-600 hover:bg-[#4F8A8B] hover:text-white">
+                  <span className="sr-only">Next Slide</span>
                   <svg
-                    class="h-5 w-5"
+                    className="h-5 w-5"
                     fill="none"
                     stroke="currentColor"
                     viewBox="0 0 24 24"
@@ -102,9 +102,9 @@ const Testimonial = () => {
               </div>
             </div>
 
-            <div class="-mx-6 lg:col-span-2 lg:mx-0">
-              <div class="swiper-container !overflow-hidden">
-                <div class="swiper-wrapper">
+            <div className="-mx-6 lg:col-span-2 lg:mx-0">
+              <div className="swiper-container !overflow-hidden">
+                <div className="swiper-wrapper">
                   <Slide
                     details={{
                       title: "something",
@@ -144,13 +144,13 @@ const Testimonial = () => {
             </div>
           </div>
 
-          <div class="mt-8 flex justify-center gap-4 lg:hidden">
+          <div className="mt-8 flex justify-center gap-4 lg:hidden">
             <button
               aria-label="Previous slide"
-              class="prev-button rounded-full border border-[#4f8A8B] p-4 text-[#4f8A8B] hover:bg-[#4f8A8B] hover:text-white"
+              className="prev-button rounded-full border border-[#4f8A8B] p-4 text-[#4f8A8B] hover:bg-[#4f8A8B] hover:text-white"
             >
               <svg
-                class="h-5 w-5 -rotate-180 transform"
+                className="h-5 w-5 -rotate-180 transform"
                 fill="none"
                 stroke="currentColor"
                 viewBox="0 0 24 24"
@@ -167,10 +167,10 @@ const Testimonial = () => {
 
             <button
               aria-label="Next slide"
-              class="next-button rounded-full border border-[#4f8A8B] p-4 text-[#4f8A8B] hover:bg-[#4f8A8B] hover:text-white"
+              className="next-button rounded-full border border-[#4f8A8B] p-4 text-[#4f8A8B] hover:bg-[#4f8A8B] hover:text-white"
             >
               <svg
-                class="h-5 w-5"
+                className="h-5 w-5"
                 fill="none"
                 stroke="currentColor"
                 viewBox="0 0 24 24"
@@ -198,12 +198,12 @@ const Slide = (props) => {
   const { title, content, name } = props.details;
   return (
     <>
-      <div class="swiper-slide">
-        <blockquote class="flex h-full flex-col justify-between bg-white p-12">
+      <div className="swiper-slide">
+        <blockquote className="flex h-full flex-col justify-between bg-white p-12">
           <div>
-            <div class="flex gap-0.5 text-500 text-[#4F8A8B]">
+            <div className="flex gap-0.5 text-500 text-[#4F8A8B]">
               <svg
-                class="h-5 w-5"
+                className="h-5 w-5"
                 fill="currentColor"
                 viewBox="0 0 20 20"
                 xmlns="http://www.w3.org/2000/svg"
@@ -212,7 +212,7 @@ const Slide = (props) => {
               </svg>
 
               <svg
-                class="h-5 w-5"
+                className="h-5 w-5"
                 fill="currentColor"
                 viewBox="0 0 20 20"
                 xmlns="http://www.w3.org/2000/svg"
@@ -221,7 +221,7 @@ const Slide = (props) => {
               </svg>
 
               <svg
-                class="h-5 w-5"
+                className="h-5 w-5"
                 fill="currentColor"
                 viewBox="0 0 20 20"
                 xmlns="http://www.w3.org/2000/svg"
@@ -230,7 +230,7 @@ const Slide = (props) => {
               </svg>
 
               <svg
-                class="h-5 w-5"
+                className="h-5 w-5"
                 fill="currentColor"
                 viewBox="0 0 20 20"
                 xmlns="http://www.w3.org/2000/svg"
@@ -239,7 +239,7 @@ const Slide = (props) => {
               </svg>
 
               <svg
-                class="h-5 w-5"
+                className="h-5 w-5"
                 fill="currentColor"
                 viewBox="0 0 20 20"
                 xmlns="http://www.w3.org/2000/svg"
@@ -248,16 +248,16 @@ const Slide = (props) => {
               </svg>
             </div>
 
-            <div class="mt-4">
-              <p class="text-2xl font-bold text-600 text-[#4F8A8B] sm:text-3xl">
+            <div className="mt-4">
+              <p className="text-2xl font-bold text-600 text-[#4F8A8B] sm:text-3xl">
                 {title}
               </p>
 
-              <p class="mt-4 leading-relaxed text-gray-500">{content}</p>
+              <p className="mt-4 leading-relaxed text-gray-500">{content}</p>
             </div>
           </div>
 
-          <footer class="mt-8 text-sm text-gray-500">&mdash; {name}</footer>
+          <footer className="mt-8 text-sm text-gray-500">&mdash; {name}</footer>
         </blockquote>
       </div>
     </>
