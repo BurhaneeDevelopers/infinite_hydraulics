@@ -4,10 +4,12 @@ import { useEffect } from "react";
 import Banner from "@/components/Banner";
 
 const HydraulicsEquipments = () => {
-    
   return (
     <div>
-      <Banner title={"Hydraulic Equipments"} img={"/hydraulicsequipments.jpg"} />
+      <Banner
+        title={"Hydraulic Equipments"}
+        img={"/hydraulicsequipments.jpg"}
+      />
 
       {/* <!-- Products --> */}
       <div class="my-10">
@@ -49,12 +51,18 @@ const HydraulicsEquipments = () => {
               </div>
 
               <div class="mt-4">
-                <label
-                  for="my-modal-4"
-                  class="block w-full rounded bg-[#FBD46D] text-center p-4 text-sm font-medium transition hover:scale-105"
+                <a
+                  href="/Catalogue.pdf#page=19"
+                  target="_blank"
+                  rel="norefferer noopener"
                 >
-                  Show Details
-                </label>
+                  <label
+                    for="my-modal-4"
+                    class="block w-full rounded bg-[#FBD46D] text-center p-4 text-sm font-medium transition hover:scale-105"
+                  >
+                    Show Details
+                  </label>
+                </a>
               </div>
             </div>
           </div>
@@ -85,7 +93,13 @@ const HydraulicsEquipments = () => {
                   for="my-modal-4"
                   class="block w-full rounded bg-[#FBD46D] text-center p-4 text-sm font-medium transition hover:scale-105"
                 >
-                  Show Details
+                  <a
+                    href="/Catalogue.pdf#page=19"
+                    target="_blank"
+                    rel="norefferer noopener"
+                  >
+                    Show Details
+                  </a>
                 </label>
               </div>
             </div>
@@ -117,7 +131,13 @@ const HydraulicsEquipments = () => {
                   for="my-modal-4"
                   class="block w-full rounded bg-[#FBD46D] text-center p-4 text-sm font-medium transition hover:scale-105"
                 >
-                  Show Details
+                  <a
+                    href="/Catalogue.pdf#page=19"
+                    target="_blank"
+                    rel="norefferer noopener"
+                  >
+                    Show Details
+                  </a>
                 </label>
               </div>
             </div>
@@ -147,7 +167,13 @@ const HydraulicsEquipments = () => {
                   for="my-modal-4"
                   class="block w-full rounded bg-[#FBD46D] text-center p-4 text-sm font-medium transition hover:scale-105"
                 >
-                  Show Details
+                  <a
+                    href="/Catalogue.pdf#page=19"
+                    target="_blank"
+                    rel="norefferer noopener"
+                  >
+                    Show Details
+                  </a>
                 </label>
               </div>
             </div>
@@ -177,7 +203,13 @@ const HydraulicsEquipments = () => {
                   for="my-modal-4"
                   class="block w-full rounded bg-[#FBD46D] text-center p-4 text-sm font-medium transition hover:scale-105"
                 >
-                  Show Details
+                  <a
+                    href="/Catalogue.pdf#page=19"
+                    target="_blank"
+                    rel="norefferer noopener"
+                  >
+                    Show Details
+                  </a>
                 </label>
               </div>
             </div>
@@ -207,7 +239,13 @@ const HydraulicsEquipments = () => {
                   for="my-modal-4"
                   class="block w-full rounded bg-[#FBD46D] text-center p-4 text-sm font-medium transition hover:scale-105"
                 >
-                  Show Details
+                  <a
+                    href="/Catalogue.pdf#page=19"
+                    target="_blank"
+                    rel="norefferer noopener"
+                  >
+                    Show Details
+                  </a>
                 </label>
               </div>
             </div>
@@ -237,7 +275,13 @@ const HydraulicsEquipments = () => {
                   for="my-modal-4"
                   class="block w-full rounded bg-[#FBD46D] text-center p-4 text-sm font-medium transition hover:scale-105"
                 >
-                  Show Details
+                  <a
+                    href="/Catalogue.pdf#page=19"
+                    target="_blank"
+                    rel="norefferer noopener"
+                  >
+                    Show Details
+                  </a>
                 </label>
               </div>
             </div>

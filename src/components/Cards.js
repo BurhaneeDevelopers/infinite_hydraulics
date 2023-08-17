@@ -8,7 +8,7 @@ const CardCarousel = ({ cards }) => {
       slidesPerView: 1,
       spaceBetween: 32,
       autoplay: {
-        delay: 2000,
+        delay: 4000,
       },
       navigation: {
         nextEl: ".next-button",
@@ -16,7 +16,7 @@ const CardCarousel = ({ cards }) => {
       },
       breakpoints: {
         640: {
-          slidesPerView: 1.5,
+          slidesPerView: 1,
           centeredSlides: true,
         },
         1024: {

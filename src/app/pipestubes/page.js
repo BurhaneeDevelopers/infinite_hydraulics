@@ -56,7 +56,7 @@ const PipesTubes = () => {
                   for="my-modal-4"
                   class="block w-full rounded bg-[#FBD46D] text-center p-4 text-sm font-medium transition hover:scale-105"
                 >
-                  Show Details
+                  <a href="/Catalogue.pdf#page=24" target="_blank" rel="norefferer noopener">Show Details</a>
                 </label>
               </div>
             </div>
@@ -93,7 +93,7 @@ const PipesTubes = () => {
                   for="my-modal-4"
                   class="block w-full rounded bg-[#FBD46D] text-center p-4 text-sm font-medium transition hover:scale-105"
                 >
-                  Show Details
+                  <a href="/Catalogue.pdf#page=24" target="_blank" rel="norefferer noopener">Show Details</a>
                 </label>
               </div>
             </div>
@@ -130,7 +130,7 @@ const PipesTubes = () => {
                   for="my-modal-4"
                   class="block w-full rounded bg-[#FBD46D] text-center p-4 text-sm font-medium transition hover:scale-105"
                 >
-                  Show Details
+                  <a href="/Catalogue.pdf#page=24" target="_blank" rel="norefferer noopener">Show Details</a>
                 </label>
               </div>
             </div>

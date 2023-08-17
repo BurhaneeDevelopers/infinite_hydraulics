@@ -134,7 +134,7 @@ const HydraulicHoses = () => {
 
               <div class="mt-4">
                 <a
-                  href="/Catalogue/IHS-Catalogue.pdf#page=25"
+                  href="/Catalogue/IHS-Catalogue.pdf#page=01"
                   class="block w-full rounded bg-[#FBD46D] text-center p-4 text-sm font-medium transition hover:scale-105 cursor-pointer"
                 >
                   Show Details
@@ -172,7 +172,7 @@ const HydraulicHoses = () => {
 
               <div class="mt-4">
                 <a
-                  href="/Catalogue/IHS-Catalogue.pdf#page=25"
+                  href="/Catalogue/IHS-Catalogue.pdf#page=01"
                   class="block w-full rounded bg-[#FBD46D] text-center p-4 text-sm font-medium transition hover:scale-105 cursor-pointer"
                 >
                   Show Details
@@ -210,7 +210,7 @@ const HydraulicHoses = () => {
 
               <div class="mt-4">
                 <a
-                  href="/Catalogue/IHS-Catalogue.pdf#page=25"
+                  href="/Catalogue/IHS-Catalogue.pdf#page=01"
                   class="block w-full rounded bg-[#FBD46D] text-center p-4 text-sm font-medium transition hover:scale-105 cursor-pointer"
                 >
                   Show Details
@@ -246,7 +246,7 @@ const HydraulicHoses = () => {
 
               <div class="mt-4">
                 <a
-                  href="/Catalogue/IHS-Catalogue.pdf#page=25"
+                  href="/Catalogue/IHS-Catalogue.pdf#page=01"
                   class="block w-full rounded bg-[#FBD46D] text-center p-4 text-sm font-medium transition hover:scale-105 cursor-pointer"
                 >
                   Show Details
@@ -281,7 +281,7 @@ const HydraulicHoses = () => {
 
               <div class="mt-4">
                 <a
-                  href="/Catalogue/IHS-Catalogue.pdf#page=25"
+                  href="/Catalogue/IHS-Catalogue.pdf#page=01"
                   class="block w-full rounded bg-[#FBD46D] text-center p-4 text-sm font-medium transition hover:scale-105 cursor-pointer"
                 >
                   Show Details
@@ -316,7 +316,7 @@ const HydraulicHoses = () => {
 
               <div class="mt-4">
                 <a
-                  href="/Catalogue/IHS-Catalogue.pdf#page=25"
+                  href="/Catalogue/IHS-Catalogue.pdf#page=01"
                   class="block w-full rounded bg-[#FBD46D] text-center p-4 text-sm font-medium transition hover:scale-105 cursor-pointer"
                 >
                   Show Details
@@ -352,7 +352,7 @@ const HydraulicHoses = () => {
 
               <div class="mt-4">
                 <a
-                  href="/Catalogue/IHS-Catalogue.pdf#page=25"
+                  href="/Catalogue/IHS-Catalogue.pdf#page=01"
                   class="block w-full rounded bg-[#FBD46D] text-center p-4 text-sm font-medium transition hover:scale-105 cursor-pointer"
                 >
                   Show Details
@@ -388,7 +388,7 @@ const HydraulicHoses = () => {
 
               <div class="mt-4">
                 <a
-                  href="/Catalogue/IHS-Catalogue.pdf#page=25"
+                  href="/Catalogue/IHS-Catalogue.pdf#page=01"
                   class="block w-full rounded bg-[#FBD46D] text-center p-4 text-sm font-medium transition hover:scale-105 cursor-pointer"
                 >
                   Show Details
@@ -425,7 +425,7 @@ const HydraulicHoses = () => {
 
               <div class="mt-4">
                 <a
-                  href="/Catalogue/IHS-Catalogue.pdf#page=25"
+                  href="/Catalogue/IHS-Catalogue.pdf#page=01"
                   class="block w-full rounded bg-[#FBD46D] text-center p-4 text-sm font-medium transition hover:scale-105 cursor-pointer"
                 >
                   Show Details
@@ -461,7 +461,7 @@ const HydraulicHoses = () => {
 
               <div class="mt-4">
                 <a
-                  href="/Catalogue/IHS-Catalogue.pdf#page=25"
+                  href="/Catalogue/IHS-Catalogue.pdf#page=01"
                   class="block w-full rounded bg-[#FBD46D] text-center p-4 text-sm font-medium transition hover:scale-105 cursor-pointer"
                 >
                   Show Details
@@ -497,7 +497,7 @@ const HydraulicHoses = () => {
 
               <div class="mt-4">
                 <a
-                  href="/Catalogue/IHS-Catalogue.pdf#page=25"
+                  href="/Catalogue/IHS-Catalogue.pdf#page=01"
                   class="block w-full rounded bg-[#FBD46D] text-center p-4 text-sm font-medium transition hover:scale-105 cursor-pointer"
                 >
                   Show Details
@@ -533,7 +533,7 @@ const HydraulicHoses = () => {
 
               <div class="mt-4">
                 <a
-                  href="/Catalogue/IHS-Catalogue.pdf#page=25"
+                  href="/Catalogue/IHS-Catalogue.pdf#page=01"
                   class="block w-full rounded bg-[#FBD46D] text-center p-4 text-sm font-medium transition hover:scale-105 cursor-pointer"
                 >
                   Show Details
@@ -569,7 +569,7 @@ const HydraulicHoses = () => {
 
               <div class="mt-4">
                 <a
-                  href="/Catalogue/IHS-Catalogue.pdf#page=25"
+                  href="/Catalogue/IHS-Catalogue.pdf#page=01"
                   class="block w-full rounded bg-[#FBD46D] text-center p-4 text-sm font-medium transition hover:scale-105 cursor-pointer"
                 >
                   Show Details
@@ -607,7 +607,7 @@ const HydraulicHoses = () => {
 
               <div class="mt-4">
                 <a
-                  href="/Catalogue/IHS-Catalogue.pdf#page=25"
+                  href="/Catalogue/IHS-Catalogue.pdf#page=01"
                   class="block w-full rounded bg-[#FBD46D] text-center p-4 text-sm font-medium transition hover:scale-105 cursor-pointer"
                 >
                   Show Details
@@ -642,7 +642,7 @@ const HydraulicHoses = () => {
 
               <div class="mt-4">
                 <a
-                  href="/Catalogue/IHS-Catalogue.pdf#page=25"
+                  href="/Catalogue/IHS-Catalogue.pdf#page=01"
                   class="block w-full rounded bg-[#FBD46D] text-center p-4 text-sm font-medium transition hover:scale-105 cursor-pointer"
                 >
                   Show Details
@@ -677,7 +677,7 @@ const HydraulicHoses = () => {
 
               <div class="mt-4">
                 <a
-                  href="/Catalogue/IHS-Catalogue.pdf#page=25"
+                  href="/Catalogue/IHS-Catalogue.pdf#page=01"
                   class="block w-full rounded bg-[#FBD46D] text-center p-4 text-sm font-medium transition hover:scale-105 cursor-pointer"
                 >
                   Show Details
@@ -712,7 +712,7 @@ const HydraulicHoses = () => {
 
               <div class="mt-4">
                 <a
-                  href="/Catalogue/IHS-Catalogue.pdf#page=25"
+                  href="/Catalogue/IHS-Catalogue.pdf#page=01"
                   class="block w-full rounded bg-[#FBD46D] text-center p-4 text-sm font-medium transition hover:scale-105 cursor-pointer"
                 >
                   Show Details

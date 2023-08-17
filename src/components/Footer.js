@@ -17,11 +17,12 @@ const Footer = () => {
             </p>
 
             <a
-              href="/banner.jpg"
+              href="/Catalogue.pdf"
+              target="_blank"
+              rel="noopener noreferrer"
               class="inline-block px-12 py-3 mt-8 text-sm font-medium text-[#4F8A8B] border border-[#4F8A8B] hover:border-transparent rounded-full hover:text-gray-100 hover:bg-gray-600"
-              download
             >
-              Download our Catalogue
+              View our Catalogue
             </a>
           </div>
 
@@ -43,15 +44,6 @@ const Footer = () => {
                     class="text-gray-500 transition hover:opacity-75"
                   >
                     Privacy Policy
-                  </a>
-                </li>
-
-                <li>
-                  <a
-                    href="javascript:void(0)"
-                    class="text-gray-500 transition hover:opacity-75"
-                  >
-                    Cookies
                   </a>
                 </li>
               </ul>

@@ -27,9 +27,9 @@ const Testimonial = () => {
       },
     });
 
-    return () => {
-      swiper.destroy(); // Clean up the Swiper instance when the component unmounts
-    };
+    // return () => {
+    //   swiper.destroy(); // Clean up the Swiper instance when the component unmounts
+    // };
   }, []);
   return (
     <div>

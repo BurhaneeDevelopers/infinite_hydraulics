@@ -2,7 +2,6 @@
 import Testimonial from "@/components/Testimonial";
 import { useState, useRef, useEffect } from "react";
 import Link from "next/link";
-import CardCarousel from "@/components/Cards";
 
 export default function Home() {
   useEffect(() => {
@@ -11,7 +10,7 @@ export default function Home() {
       slidesPerView: 1,
       spaceBetween: 32,
       autoplay: {
-        delay: 2000,
+        delay: 4000,
       },
       navigation: {
         nextEl: ".next-button",
@@ -19,7 +18,7 @@ export default function Home() {
       },
       breakpoints: {
         640: {
-          slidesPerView: 1.5,
+          slidesPerView: 1,
           centeredSlides: true,
         },
         1024: {
@@ -30,6 +29,48 @@ export default function Home() {
     });
   }, []);
 
+  const cards = [
+    {
+      title: "Automotive Industry",
+      image: "/industries/automotive-industry.jpeg",
+    },
+    {
+      title: "Oil Refinery Industry",
+      image: "/industries/oil-refining.jpg",
+    },
+    {
+      title: "Sugar Industry",
+      image: "/industries/sugar-industry.jpeg",
+    },
+    {
+      title: "Shipping Industry",
+      image: "/industries/shipping-industry.jpeg",
+    },
+    {
+      title: "Cement Industry",
+      image: "/industries/cement-industry.jpeg",
+    },
+    {
+      title: "Air Craft Industry",
+      image: "/industries/aircraft-industry.jpeg",
+    },
+    {
+      title: "Petrol Industry",
+      image: "/industries/petrol-industry.jpeg",
+    },
+    {
+      title: "Chemical Industry",
+      image: "/industries/chemical-industry.jpeg",
+    },
+    {
+      title: "Pharma Industry",
+      image: "/industries/pharma-chemical-industry.jpeg",
+    },
+    {
+      title: "Steel Industry",
+      image: "/industries/steel-industry.jpeg",
+    },
+  ];
   return (
     <>
       <div class="bg-[url(/Hero.jpg)] bg-cover bg-fixed bg-center h-screen">
@@ -290,95 +331,16 @@ export default function Home() {
             </div>
           </div>
 
-          <div class="-mx-6 mt-8 lg:col-span-2 lg:mx-0">
+          <div class="sm:-mx-6 mt-8 lg:col-span-2 lg:mx-0">
             <div class="swiper-container !overflow-hidden">
               <div class="swiper-wrapper">
-                <div className="swiper-slide rounded-3xl !w-screen sm:!w-96">
-                  <div className="bg-[url('/industries/automotive-industry.jpeg')] no-repeat bg-cover h-96 w-screen sm:w-96 relative rounded-3xl overflow-hidden">
-                    <div className="inset-0 bg-black/30 absolute p-5 h-full justify-center items-center">
-                      <h3 className="text-xl text-white">
-                        Automotive Industry
-                      </h3>
-                    </div>
-                  </div>
-                </div>
-
-                <div className="swiper-slide rounded-3xl !w-screen sm:!w-96">
-                  <div className="bg-[url('/industries/automotive-industry.jpeg')] no-repeat bg-cover h-96 w-screen sm:w-96 relative rounded-3xl overflow-hidden">
-                    <div className="inset-0 bg-black/30 absolute p-5 h-full justify-center items-center">
-                      <h3 className="text-xl text-white">
-                        Oil Refinery Industry
-                      </h3>
-                    </div>
-                  </div>
-                </div>
-
-                <div className="swiper-slide rounded-3xl !w-screen sm:!w-96">
-                  <div className="bg-[url('/industries/automotive-industry.jpeg')] no-repeat bg-cover h-96 w-screen sm:w-96 relative rounded-3xl overflow-hidden">
-                    <div className="inset-0 bg-black/30 absolute p-5 h-full justify-center items-center">
-                      <h3 className="text-xl text-white">Shipping Industry</h3>
-                    </div>
-                  </div>
-                </div>
-
-                <div className="swiper-slide rounded-3xl !w-screen sm:!w-96">
-                  <div className="bg-[url('/industries/automotive-industry.jpeg')] no-repeat bg-cover h-96 w-screen sm:w-96 relative rounded-3xl overflow-hidden">
-                    <div className="inset-0 bg-black/30 absolute p-5 h-full justify-center items-center">
-                      <h3 className="text-xl text-white">Cement Industry</h3>
-                    </div>
-                  </div>
-                </div>
-
-                <div className="swiper-slide rounded-3xl !w-screen sm:!w-96">
-                  <div className="bg-[url('/industries/automotive-industry.jpeg')] no-repeat bg-cover h-96 w-screen sm:w-96 relative rounded-3xl overflow-hidden">
-                    <div className="inset-0 bg-black/30 absolute p-5 h-full justify-center items-center">
-                      <h3 className="text-xl text-white">Sugar Industry</h3>
-                    </div>
-                  </div>
-                </div>
-
-                <div className="swiper-slide rounded-3xl !w-screen sm:!w-96">
-                  <div className="bg-[url('/industries/automotive-industry.jpeg')] no-repeat bg-cover h-96 w-screen sm:w-96 relative rounded-3xl overflow-hidden">
-                    <div className="inset-0 bg-black/30 absolute p-5 h-full justify-center items-center">
-                      <h3 className="text-xl text-white">Air Craft Industry</h3>
-                    </div>
-                  </div>
-                </div>
-
-                <div className="swiper-slide rounded-3xl !w-screen sm:!w-96">
-                  <div className="bg-[url('/industries/automotive-industry.jpeg')] no-repeat bg-cover h-96 w-screen sm:w-96 relative rounded-3xl overflow-hidden">
-                    <div className="inset-0 bg-black/30 absolute p-5 h-full justify-center items-center">
-                      <h3 className="text-xl text-white">Petrol Industry</h3>
-                    </div>
-                  </div>
-                </div>
-
-                <div className="swiper-slide rounded-3xl !w-screen sm:!w-96">
-                  <div className="bg-[url('/industries/automotive-industry.jpeg')] no-repeat bg-cover h-96 w-screen sm:w-96 relative rounded-3xl overflow-hidden">
-                    <div className="inset-0 bg-black/30 absolute p-5 h-full justify-center items-center">
-                      <h3 className="text-xl text-white">Pharma Industry</h3>
-                    </div>
-                  </div>
-                </div>
-
-                <div className="swiper-slide rounded-3xl !w-screen sm:!w-96">
-                  <div className="bg-[url('/industries/automotive-industry.jpeg')] no-repeat bg-cover h-96 w-screen sm:w-96 relative rounded-3xl overflow-hidden">
-                    <div className="inset-0 bg-black/30 absolute p-5 h-full justify-center items-center">
-                      <h3 className="text-xl text-white">Chemical Industry</h3>
-                    </div>
-                  </div>
-                </div>
-
-                <div className="swiper-slide rounded-3xl !w-screen sm:!w-96">
-                  <div className="bg-[url('/industries/automotive-industry.jpeg')] no-repeat bg-cover h-96 w-screen sm:w-96 relative rounded-3xl overflow-hidden">
-                    <div className="inset-0 bg-black/30 absolute p-5 h-full justify-center items-center">
-                      <h3 className="text-xl text-white">Steel Industry</h3>
-                    </div>
-                  </div>
-                </div>
+                {cards.map((card, index) => (
+                  <Slide key={index} title={card.title} image={card.image} />
+                ))}
               </div>
             </div>
           </div>
+          
         </div>
       </section>
       {/* <!-- Extra Section  --> */}
@@ -433,3 +395,20 @@ export default function Home() {
     </>
   );
 }
+
+const Slide = ({ title, image }) => {
+  return (
+    <>
+      <div className="swiper-slide !w-screen sm:!w-96">
+        <div
+          className=" no-repeat bg-cover h-96 w-screen sm:w-96 relative rounded-3xl overflow-hidden"
+          style={{ backgroundImage: `url('${image}')` }}
+        >
+          <div className="inset-0 bg-black/30 absolute p-5 h-full justify-center items-center">
+            <h3 className="text-xl text-white">{title}</h3>
+          </div>
+        </div>
+      </div>
+    </>
+  );
+};
