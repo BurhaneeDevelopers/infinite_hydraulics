@@ -298,7 +298,7 @@ export default function Home() {
         <div className="mx-auto max-w-[1340px] px-4 py-16 sm:px-6 sm:py-24 lg:me-0 lg:pe-0 lg:ps-8">
           <div className="max-w-7xl items-end justify-between sm:flex sm:pe-6 lg:pe-8">
             <div className="mt-8 flex gap-4 lg:mt-0">
-              <button className="prev-button rounded-full border border-pink-600 p-3 text-pink-600 hover:bg-pink-600 hover:text-white">
+              <button className="prev-button rounded-full border border-[#4f8A8B] p-3 border-[#4f8A8B] hover:border-[#4f8A8B] hover:bg-[#4F8A8B] hover:text-white text-[#4f8A8B]">
                 <span className="sr-only">Previous Slide</span>
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
@@ -316,7 +316,7 @@ export default function Home() {
                 </svg>
               </button>
 
-              <button className="next-button rounded-full border border-pink-600 p-3 text-pink-600 hover:bg-pink-600 hover:text-white">
+              <button className="next-button rounded-full border border-[#4f8A8B] p-3 border-[#4f8A8B] hover:border-[#4f8A8B] hover:bg-[#4F8A8B] hover:text-white text-[#4f8A8B]">
                 <span className="sr-only">Next Slide</span>
                 <svg
                   className="h-5 w-5 rtl:rotate-180"
