@@ -107,7 +107,7 @@ const GeneralConsumable = () => {
 
               <div className="mt-4">
                 <a
-                  href="/Catalogue.pdf#page=38"
+                  href="/Catalogue.pdf#page=39"
                   target="_blank"
                   rel="norefferer noopener"
                 >
@@ -150,7 +150,7 @@ const GeneralConsumable = () => {
 
               <div className="mt-4">
                 <a
-                  href="/Catalogue.pdf#page=38"
+                  href="/Catalogue.pdf#page=39"
                   target="_blank"
                   rel="norefferer noopener"
                 >
@@ -193,7 +193,7 @@ const GeneralConsumable = () => {
 
               <div className="mt-4">
                 <a
-                  href="/Catalogue.pdf#page=38"
+                  href="/Catalogue.pdf#page=39"
                   target="_blank"
                   rel="norefferer noopener"
                 >
@@ -235,7 +235,7 @@ const GeneralConsumable = () => {
 
               <div className="mt-4">
                 <a
-                  href="/Catalogue.pdf#page=38"
+                  href="/Catalogue.pdf#page=39"
                   target="_blank"
                   rel="norefferer noopener"
                 >
@@ -274,7 +274,7 @@ const GeneralConsumable = () => {
 
               <div className="mt-4">
                 <a
-                  href="/Catalogue.pdf#page=39"
+                  href="/Catalogue.pdf#page=40"
                   target="_blank"
                   rel="norefferer noopener"
                 >
@@ -315,7 +315,7 @@ const GeneralConsumable = () => {
 
               <div className="mt-4">
                 <a
-                  href="/Catalogue.pdf#page=39"
+                  href="/Catalogue.pdf#page=40"
                   target="_blank"
                   rel="norefferer noopener"
                 >
@@ -354,7 +354,7 @@ const GeneralConsumable = () => {
 
               <div className="mt-4">
                 <a
-                  href="/Catalogue.pdf#page=39"
+                  href="/Catalogue.pdf#page=40"
                   target="_blank"
                   rel="norefferer noopener"
                 >

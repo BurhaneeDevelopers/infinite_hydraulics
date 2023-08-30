@@ -1,5 +1,5 @@
 "use client";
-import Testimonial from "@/components/Testimonial";
+// import Testimonial from "@/components/Testimonial";
 import { useState, useRef, useEffect } from "react";
 import Link from "next/link";
 
@@ -395,7 +395,7 @@ export default function Home() {
         </div>
       </section>
       {/* <!-- Contact  --> */}
-      <Testimonial />
+      {/* <Testimonial /> */}
     </>
   );
 }

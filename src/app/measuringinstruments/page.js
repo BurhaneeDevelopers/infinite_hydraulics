@@ -59,7 +59,7 @@ const MeasuringInstruments = () => {
 
               <div className="mt-4">
                 <a
-                  href="/Catalogue.pdf#p6"
+                  href="/Catalogue.pdf#page=36"
                   target="_blank"
                   rel="norefferer noopener"
                 >
@@ -100,7 +100,7 @@ const MeasuringInstruments = () => {
 
               <div className="mt-4">
                 <a
-                  href="/Catalogue.pdf#page=35"
+                  href="/Catalogue.pdf#page=36"
                   target="_blank"
                   rel="norefferer noopener"
                 >
@@ -141,7 +141,7 @@ const MeasuringInstruments = () => {
 
               <div className="mt-4">
                 <a
-                  href="/Catalogue.pdf#page=35"
+                  href="/Catalogue.pdf#page=36"
                   target="_blank"
                   rel="norefferer noopener"
                 >
@@ -184,7 +184,7 @@ const MeasuringInstruments = () => {
 
               <div className="mt-4">
                 <a
-                  href="/Catalogue.pdf#page=35"
+                  href="/Catalogue.pdf#page=36"
                   target="_blank"
                   rel="norefferer noopener"
                 >
@@ -227,7 +227,7 @@ const MeasuringInstruments = () => {
 
               <div className="mt-4">
                 <a
-                  href="/Catalogue.pdf#page=36"
+                  href="/Catalogue.pdf#page=37"
                   target="_blank"
                   rel="norefferer noopener"
                 >
@@ -269,7 +269,7 @@ const MeasuringInstruments = () => {
 
               <div className="mt-4">
                 <a
-                  href="/Catalogue.pdf#page=36"
+                  href="/Catalogue.pdf#page=37"
                   target="_blank"
                   rel="norefferer noopener"
                 >
@@ -310,7 +310,7 @@ const MeasuringInstruments = () => {
 
               <div className="mt-4">
                 <a
-                  href="/Catalogue.pdf#page=36"
+                  href="/Catalogue.pdf#page=37"
                   target="_blank"
                   rel="norefferer noopener"
                 >
@@ -351,7 +351,7 @@ const MeasuringInstruments = () => {
 
               <div className="mt-4">
                 <a
-                  href="/Catalogue.pdf#page=36"
+                  href="/Catalogue.pdf#page=37"
                   target="_blank"
                   rel="norefferer noopener"
                 >
@@ -392,7 +392,7 @@ const MeasuringInstruments = () => {
 
               <div className="mt-4">
                 <a
-                  href="/Catalogue.pdf#page=37"
+                  href="/Catalogue.pdf#page=38"
                   target="_blank"
                   rel="norefferer noopener"
                 >
@@ -433,7 +433,7 @@ const MeasuringInstruments = () => {
 
               <div className="mt-4">
                 <a
-                  href="/Catalogue.pdf#page=37"
+                  href="/Catalogue.pdf#page=38"
                   target="_blank"
                   rel="norefferer noopener"
                 >

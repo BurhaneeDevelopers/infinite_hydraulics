@@ -53,7 +53,7 @@ const PipesTubes = () => {
 
               <div className="mt-4">
                 <a
-                  href="/Catalogue.pdf#page=34"
+                  href="/Catalogue.pdf#page=35"
                   target="_blank"
                   rel="norefferer noopener"
                 >
@@ -96,7 +96,7 @@ const PipesTubes = () => {
 
               <div className="mt-4">
                 <a
-                  href="/Catalogue.pdf#page=34"
+                  href="/Catalogue.pdf#page=35"
                   target="_blank"
                   rel="norefferer noopener"
                 >
@@ -139,7 +139,7 @@ const PipesTubes = () => {
 
               <div className="mt-4">
                 <a
-                  href="/Catalogue.pdf#page=34"
+                  href="/Catalogue.pdf#page=35"
                   target="_blank"
                   rel="norefferer noopener"
                 >

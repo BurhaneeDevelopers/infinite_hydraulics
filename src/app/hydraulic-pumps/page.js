@@ -52,7 +52,7 @@ const HydraulicPumps = () => {
 
               <div className="mt-4">
                 <a
-                  href="/Catalogue.pdf#page=24"
+                  href="/Catalogue.pdf#page=25"
                   target="_blank"
                   rel="norefferer noopener"
                 >
@@ -93,7 +93,7 @@ const HydraulicPumps = () => {
 
               <div className="mt-4">
                 <a
-                  href="/Catalogue.pdf#page=24"
+                  href="/Catalogue.pdf#page=25"
                   target="_blank"
                   rel="norefferer noopener"
                 >
@@ -134,7 +134,7 @@ const HydraulicPumps = () => {
 
               <div className="mt-4">
                 <a
-                  href="/Catalogue.pdf#page=24"
+                  href="/Catalogue.pdf#page=25"
                   target="_blank"
                   rel="norefferer noopener"
                 >
@@ -175,7 +175,7 @@ const HydraulicPumps = () => {
 
               <div className="mt-4">
                 <a
-                  href="/Catalogue.pdf#page=24"
+                  href="/Catalogue.pdf#page=25"
                   target="_blank"
                   rel="norefferer noopener"
                 >
@@ -216,7 +216,7 @@ const HydraulicPumps = () => {
 
               <div className="mt-4">
                 <a
-                  href="/Catalogue.pdf#page=25"
+                  href="/Catalogue.pdf#page=26"
                   target="_blank"
                   rel="norefferer noopener"
                 >
@@ -257,7 +257,7 @@ const HydraulicPumps = () => {
 
               <div className="mt-4">
                 <a
-                  href="/Catalogue.pdf#page=25"
+                  href="/Catalogue.pdf#page=26"
                   target="_blank"
                   rel="norefferer noopener"
                 >

@@ -55,7 +55,7 @@ const IndustrialValves = () => {
 
               <div className="mt-4">
                 <a
-                  href="/Catalogue.pdf#page=31"
+                  href="/Catalogue.pdf#page=32"
                   target="_blank"
                   rel="norefferer noopener"
                 >
@@ -98,7 +98,7 @@ const IndustrialValves = () => {
 
               <div className="mt-4">
                 <a
-                  href="/Catalogue.pdf#page=31"
+                  href="/Catalogue.pdf#page=32"
                   target="_blank"
                   rel="norefferer noopener"
                 >
@@ -139,7 +139,7 @@ const IndustrialValves = () => {
 
               <div className="mt-4">
                 <a
-                  href="/Catalogue.pdf#page=31"
+                  href="/Catalogue.pdf#page=32"
                   target="_blank"
                   rel="norefferer noopener"
                 >
@@ -180,7 +180,7 @@ const IndustrialValves = () => {
 
               <div className="mt-4">
                 <a
-                  href="/Catalogue.pdf#page=31"
+                  href="/Catalogue.pdf#page=32"
                   target="_blank"
                   rel="norefferer noopener"
                 >
@@ -221,7 +221,7 @@ const IndustrialValves = () => {
 
               <div className="mt-4">
                 <a
-                  href="/Catalogue.pdf#page=32"
+                  href="/Catalogue.pdf#page=33"
                   target="_blank"
                   rel="norefferer noopener"
                 >
@@ -262,7 +262,7 @@ const IndustrialValves = () => {
 
               <div className="mt-4">
                 <a
-                  href="/Catalogue.pdf#page=32"
+                  href="/Catalogue.pdf#page=33"
                   target="_blank"
                   rel="norefferer noopener"
                 >
@@ -303,7 +303,7 @@ const IndustrialValves = () => {
 
               <div className="mt-4">
                 <a
-                  href="/Catalogue.pdf#page=32"
+                  href="/Catalogue.pdf#page=33"
                   target="_blank"
                   rel="norefferer noopener"
                 >
@@ -344,7 +344,7 @@ const IndustrialValves = () => {
 
               <div className="mt-4">
                 <a
-                  href="/Catalogue.pdf#page=32"
+                  href="/Catalogue.pdf#page=33"
                   target="_blank"
                   rel="norefferer noopener"
                 >
@@ -385,7 +385,7 @@ const IndustrialValves = () => {
 
               <div className="mt-4">
                 <a
-                  href="/Catalogue.pdf#page=33"
+                  href="/Catalogue.pdf#page=34"
                   target="_blank"
                   rel="norefferer noopener"
                 >
@@ -426,7 +426,7 @@ const IndustrialValves = () => {
 
               <div className="mt-4">
                 <a
-                  href="/Catalogue.pdf#page=33"
+                  href="/Catalogue.pdf#page=34"
                   target="_blank"
                   rel="norefferer noopener"
                 >
@@ -467,7 +467,7 @@ const IndustrialValves = () => {
 
               <div className="mt-4">
                 <a
-                  href="/Catalogue.pdf#page=33"
+                  href="/Catalogue.pdf#page=34"
                   target="_blank"
                   rel="norefferer noopener"
                 >

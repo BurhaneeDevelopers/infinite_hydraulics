@@ -51,7 +51,7 @@ const Seals = () => {
 
               <div className="mt-4">
                 <a
-                  href="/Catalogue.pdf#page=29"
+                  href="/Catalogue.pdf#page=30"
                   target="_blank"
                   rel="norefferer noopener"
                 >
@@ -94,7 +94,7 @@ const Seals = () => {
 
               <div className="mt-4">
                 <a
-                  href="/Catalogue.pdf#page=29"
+                  href="/Catalogue.pdf#page=30"
                   target="_blank"
                   rel="norefferer noopener"
                 >
@@ -137,7 +137,7 @@ const Seals = () => {
 
               <div className="mt-4">
                 <a
-                  href="/Catalogue.pdf#page=29"
+                  href="/Catalogue.pdf#page=30"
                   target="_blank"
                   rel="norefferer noopener"
                 >
@@ -179,7 +179,7 @@ const Seals = () => {
 
               <div className="mt-4">
                 <a
-                  href="/Catalogue.pdf#page=29"
+                  href="/Catalogue.pdf#page=30"
                   target="_blank"
                   rel="norefferer noopener"
                 >
@@ -220,7 +220,7 @@ const Seals = () => {
 
               <div className="mt-4">
                 <a
-                  href="/Catalogue.pdf#page=30"
+                  href="/Catalogue.pdf#page=31"
                   target="_blank"
                   rel="norefferer noopener"
                 >
@@ -261,7 +261,7 @@ const Seals = () => {
 
               <div className="mt-4">
                 <a
-                  href="/Catalogue.pdf#page=30"
+                  href="/Catalogue.pdf#page=31"
                   target="_blank"
                   rel="norefferer noopener"
                 >

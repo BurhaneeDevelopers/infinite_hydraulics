@@ -365,6 +365,170 @@ const HydraulicsEquipments = () => {
 
           <div className="group relative overflow-hidden w-full xs:w-1/2 sm:w-1/3 lg:w-1/4 border border-gray-300 rounded-xl shadow-xl hydraulic AgriHose">
             <img
+              src="../Products/Penta-Hand-Operated-Grease-Dispensers.jpg"
+              alt="Whip Check Arrestor"
+              className="h-64 w-full object-contain transition duration-500 group-hover:scale-105 sm:h-72 rounded-xl"
+            />
+            <div className="relative bg-white p-6">
+              <span className="whitespace-nowrap bg-yellow-400 px-3 py-1.5 text-xs font-medium">
+                Hydraulic Equipments
+              </span>
+
+              <h3 className="mt-4 text-lg font-medium text-gray-900 heading">
+                Hand Operated Grease Dispensers
+              </h3>
+
+              <div className="flex justify-between items-center">
+                <a
+                  href="https://wa.me/+918939801621?text=Hello sir...I want to enquire more about your products in detail."
+                  className="mt-1.5 text-sm text-green-800 hover:scale-110 transition-all duration-300 ease-in-out"
+                >
+                  Contact Us {"-->"}
+                </a>
+              </div>
+
+              <div className="mt-4">
+                <a
+                  href="/Catalogue.pdf#page=23"
+                  target="_blank"
+                  rel="norefferer noopener"
+                >
+                  <label
+                    for="my-modal-4"
+                    className="cursor-pointer block w-full rounded bg-[#FBD46D] text-center p-4 text-sm font-medium transition hover:scale-105"
+                  >
+                    Show Details
+                  </label>
+                </a>
+              </div>
+            </div>
+          </div>
+
+          <div className="group relative overflow-hidden w-full xs:w-1/2 sm:w-1/3 lg:w-1/4 border border-gray-300 rounded-xl shadow-xl hydraulic AgriHose">
+            <img
+              src="../Products/Penta-Pneumatic-Barrel-Oil-Pump.webp"
+              alt="Whip Check Arrestor"
+              className="h-64 w-full object-contain transition duration-500 group-hover:scale-105 sm:h-72 rounded-xl"
+            />
+            <div className="relative bg-white p-6">
+              <span className="whitespace-nowrap bg-yellow-400 px-3 py-1.5 text-xs font-medium">
+                Hydraulic Equipments
+              </span>
+
+              <h3 className="mt-4 text-lg font-medium text-gray-900 heading">
+                Pneumatic Barrel Oil Pump
+              </h3>
+
+              <div className="flex justify-between items-center">
+                <a
+                  href="https://wa.me/+918939801621?text=Hello sir...I want to enquire more about your products in detail."
+                  className="mt-1.5 text-sm text-green-800 hover:scale-110 transition-all duration-300 ease-in-out"
+                >
+                  Contact Us {"-->"}
+                </a>
+              </div>
+
+              <div className="mt-4">
+                <a
+                  href="/Catalogue.pdf#page=23"
+                  target="_blank"
+                  rel="norefferer noopener"
+                >
+                  <label
+                    for="my-modal-4"
+                    className="cursor-pointer block w-full rounded bg-[#FBD46D] text-center p-4 text-sm font-medium transition hover:scale-105"
+                  >
+                    Show Details
+                  </label>
+                </a>
+              </div>
+            </div>
+          </div>
+
+          <div className="group relative overflow-hidden w-full xs:w-1/2 sm:w-1/3 lg:w-1/4 border border-gray-300 rounded-xl shadow-xl hydraulic AgriHose">
+            <img
+              src="../Products/penta-axle-stand.jpg"
+              alt="Whip Check Arrestor"
+              className="h-64 w-full object-contain transition duration-500 group-hover:scale-105 sm:h-72 rounded-xl"
+            />
+            <div className="relative bg-white p-6">
+              <span className="whitespace-nowrap bg-yellow-400 px-3 py-1.5 text-xs font-medium">
+                Hydraulic Equipments
+              </span>
+
+              <h3 className="mt-4 text-lg font-medium text-gray-900 heading">
+                Axle Stand
+              </h3>
+
+              <div className="flex justify-between items-center">
+                <a
+                  href="https://wa.me/+918939801621?text=Hello sir...I want to enquire more about your products in detail."
+                  className="mt-1.5 text-sm text-green-800 hover:scale-110 transition-all duration-300 ease-in-out"
+                >
+                  Contact Us {"-->"}
+                </a>
+              </div>
+
+              <div className="mt-4">
+                <a
+                  href="/Catalogue.pdf#page=23"
+                  target="_blank"
+                  rel="norefferer noopener"
+                >
+                  <label
+                    for="my-modal-4"
+                    className="cursor-pointer block w-full rounded bg-[#FBD46D] text-center p-4 text-sm font-medium transition hover:scale-105"
+                  >
+                    Show Details
+                  </label>
+                </a>
+              </div>
+            </div>
+          </div>
+
+          <div className="group relative overflow-hidden w-full xs:w-1/2 sm:w-1/3 lg:w-1/4 border border-gray-300 rounded-xl shadow-xl hydraulic AgriHose">
+            <img
+              src="../Products/penta-foam-sprayer.jpg"
+              alt="Whip Check Arrestor"
+              className="h-64 w-full object-contain transition duration-500 group-hover:scale-105 sm:h-72 rounded-xl"
+            />
+            <div className="relative bg-white p-6">
+              <span className="whitespace-nowrap bg-yellow-400 px-3 py-1.5 text-xs font-medium">
+                Hydraulic Equipments
+              </span>
+
+              <h3 className="mt-4 text-lg font-medium text-gray-900 heading">
+                Foam Sprayer
+              </h3>
+
+              <div className="flex justify-between items-center">
+                <a
+                  href="https://wa.me/+918939801621?text=Hello sir...I want to enquire more about your products in detail."
+                  className="mt-1.5 text-sm text-green-800 hover:scale-110 transition-all duration-300 ease-in-out"
+                >
+                  Contact Us {"-->"}
+                </a>
+              </div>
+
+              <div className="mt-4">
+                <a
+                  href="/Catalogue.pdf#page=23"
+                  target="_blank"
+                  rel="norefferer noopener"
+                >
+                  <label
+                    for="my-modal-4"
+                    className="cursor-pointer block w-full rounded bg-[#FBD46D] text-center p-4 text-sm font-medium transition hover:scale-105"
+                  >
+                    Show Details
+                  </label>
+                </a>
+              </div>
+            </div>
+          </div>
+
+          <div className="group relative overflow-hidden w-full xs:w-1/2 sm:w-1/3 lg:w-1/4 border border-gray-300 rounded-xl shadow-xl hydraulic AgriHose">
+            <img
               src="../Products/hydraulic-whip-checks.webp"
               alt="Whip Check Arrestor"
               className="h-64 w-full object-contain transition duration-500 group-hover:scale-105 sm:h-72 rounded-xl"
@@ -389,7 +553,7 @@ const HydraulicsEquipments = () => {
 
               <div className="mt-4">
                 <a
-                  href="/Catalogue.pdf#page=23"
+                  href="/Catalogue.pdf#page=24"
                   target="_blank"
                   rel="norefferer noopener"
                 >
@@ -430,7 +594,7 @@ const HydraulicsEquipments = () => {
 
               <div className="mt-4">
                 <a
-                  href="/Catalogue.pdf#page=23"
+                  href="/Catalogue.pdf#page=24"
                   target="_blank"
                   rel="norefferer noopener"
                 >
@@ -491,6 +655,12 @@ const HydraulicsEquipments = () => {
               loading="eager"
               className="w-40 object-contain"
               src="/Brands/catterpillar.png"
+            />
+
+            <img
+              loading="eager"
+              className="w-40 object-contain"
+              src="/Brands/penta-logo.png"
             />
           </div>
           {/* <!-- </marquee> --> */}

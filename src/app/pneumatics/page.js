@@ -53,7 +53,7 @@ const Pneumatic = () => {
 
               <div className="mt-4">
                 <a
-                  href="/Catalogue.pdf#page=26"
+                  href="/Catalogue.pdf#page=27"
                   target="_blank"
                   rel="norefferer noopener"
                 >
@@ -94,7 +94,7 @@ const Pneumatic = () => {
 
               <div className="mt-4">
                 <a
-                  href="/Catalogue.pdf#page=26"
+                  href="/Catalogue.pdf#page=27"
                   target="_blank"
                   rel="norefferer noopener"
                 >
@@ -135,7 +135,7 @@ const Pneumatic = () => {
 
               <div className="mt-4">
                 <a
-                  href="/Catalogue.pdf#page=26"
+                  href="/Catalogue.pdf#page=27"
                   target="_blank"
                   rel="norefferer noopener"
                 >
@@ -176,7 +176,7 @@ const Pneumatic = () => {
 
               <div className="mt-4">
                 <a
-                  href="/Catalogue.pdf#page=26"
+                  href="/Catalogue.pdf#page=27"
                   target="_blank"
                   rel="norefferer noopener"
                 >
@@ -217,7 +217,7 @@ const Pneumatic = () => {
 
               <div className="mt-4">
                 <a
-                  href="/Catalogue.pdf#page=27"
+                  href="/Catalogue.pdf#page=28"
                   target="_blank"
                   rel="norefferer noopener"
                 >
@@ -258,7 +258,7 @@ const Pneumatic = () => {
 
               <div className="mt-4">
                 <a
-                  href="/Catalogue.pdf#page=27"
+                  href="/Catalogue.pdf#page=28"
                   target="_blank"
                   rel="norefferer noopener"
                 >
@@ -299,7 +299,7 @@ const Pneumatic = () => {
 
               <div className="mt-4">
                 <a
-                  href="/Catalogue.pdf#page=27"
+                  href="/Catalogue.pdf#page=28"
                   target="_blank"
                   rel="norefferer noopener"
                 >
@@ -340,7 +340,7 @@ const Pneumatic = () => {
 
               <div className="mt-4">
                 <a
-                  href="/Catalogue.pdf#page=27"
+                  href="/Catalogue.pdf#page=28"
                   target="_blank"
                   rel="norefferer noopener"
                 >
@@ -381,7 +381,7 @@ const Pneumatic = () => {
 
               <div className="mt-4">
                 <a
-                  href="/Catalogue.pdf#page=28"
+                  href="/Catalogue.pdf#page=29"
                   target="_blank"
                   rel="norefferer noopener"
                 >
@@ -422,7 +422,7 @@ const Pneumatic = () => {
 
               <div className="mt-4">
                 <a
-                  href="/Catalogue.pdf#page=28"
+                  href="/Catalogue.pdf#page=29"
                   target="_blank"
                   rel="norefferer noopener"
                 >
@@ -463,7 +463,7 @@ const Pneumatic = () => {
 
               <div className="mt-4">
                 <a
-                  href="/Catalogue.pdf#page=28"
+                  href="/Catalogue.pdf#page=29"
                   target="_blank"
                   rel="norefferer noopener"
                 >
@@ -504,7 +504,7 @@ const Pneumatic = () => {
 
               <div className="mt-4">
                 <a
-                  href="/Catalogue.pdf#page=28"
+                  href="/Catalogue.pdf#page=29"
                   target="_blank"
                   rel="norefferer noopener"
                 >
