@@ -20,7 +20,7 @@ export default function RootLayout({ children }) {
             href="https://unpkg.com/swiper/swiper-bundle.min.css"
             rel="stylesheet"
           />
-          <link rel="shortcut icon" href="/Logo.png" type="image/x-icon" />
+          <link rel="shortcut icon" href="/Logo.png" type="image/x-icon" sizes="16x16" />
           <Navbar />
           {children}
           <Footer />
