@@ -140,9 +140,9 @@ export default function Home() {
                 </h2>
 
                 <p className="mt-4 text-gray-600">
-                  We have begun this new business and promise to be our
+                  We have begun this new business and promise to be your
                   one-stop shop for all hydraulics and pneumatics needs. We
-                  believe that customer service is essential, and your mission
+                  believe that customer service is essential, and our mission
                   is to provide quality products to our clients.
                 </p>
 
