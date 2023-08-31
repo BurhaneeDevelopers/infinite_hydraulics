@@ -140,7 +140,7 @@ export default function Home() {
                 </h2>
 
                 <p className="mt-4 text-gray-600">
-                  We have begun this new business and promise to be your
+                  We have begun this new business and promise to be our
                   one-stop shop for all hydraulics and pneumatics needs. We
                   believe that customer service is essential, and your mission
                   is to provide quality products to our clients.
@@ -148,7 +148,7 @@ export default function Home() {
 
                 <div className="flex justify-center">
                   <a
-                    href="/pages/aboutus.html"
+                    href="/about"
                     className="mt-8 inline-block rounded text-gray-900 bg-[#FBD46D] px-12 py-3 text-lg font-medium focus:outline-none focus:ring transition-all ease-in-out hover:text-gray-100 hover:bg-gray-600"
                   >
                     Read More {"-->"}
