@@ -245,9 +245,6 @@ const About = () => {
       </section>
 
       <div className="p-10">
-
-        
-        
         <section className="flex justify-center items-center">
           <marquee behavior="scroll" direction="horizontal" scrollamount="20">
             <div className="flex gap-12">
@@ -412,7 +409,7 @@ const About = () => {
               </h3>
 
               <p className="mt-4 text-gray-500">
-              It's all about Customers and their Satisfactions.
+                It's all about Customers and their Satisfactions.
               </p>
 
               <div className="hidden lg:mt-8 lg:flex lg:gap-4">
@@ -513,7 +510,9 @@ const About = () => {
                           </p>
 
                           <p className="mt-4 leading-relaxed text-gray-500">
-                            I Have been with this company for a long time and i cant praise this company enough. Their products are top-notch,and their customer service is unmatched.
+                            I Have been with this company for a long time and i
+                            cant praise this company enough. Their products are
+                            top-notch,and their customer service is unmatched.
                           </p>
                         </div>
                       </div>
@@ -580,7 +579,10 @@ const About = () => {
                           </p>
 
                           <p className="mt-4 leading-relaxed text-gray-500">
-                            I was a skeptical at first, but after trying their services, I am a believer! They exceeded my expectations and delivered results beyond what could i have hoped for.
+                            I was a skeptical at first, but after trying their
+                            services, I am a believer! They exceeded my
+                            expectations and delivered results beyond what could
+                            i have hoped for.
                           </p>
                         </div>
                       </div>
@@ -647,7 +649,9 @@ const About = () => {
                           </p>
 
                           <p className="mt-4 leading-relaxed text-gray-500">
-                            The Team and the company truly cares about their customers. They went above and beyond to solve my issue, and I couldn't be happier with the outcome.
+                            The Team and the company truly cares about their
+                            customers. They went above and beyond to solve my
+                            issue, and I couldn't be happier with the outcome.
                           </p>
                         </div>
                       </div>
@@ -714,7 +718,9 @@ const About = () => {
                           </p>
 
                           <p className="mt-4 leading-relaxed text-gray-500">
-                            The quality of their work is outstanding. I have recommended to friend and family, and they have all the same exceptional experience.
+                            The quality of their work is outstanding. I have
+                            recommended to friend and family, and they have all
+                            the same exceptional experience.
                           </p>
                         </div>
                       </div>
@@ -781,8 +787,9 @@ const About = () => {
                           </p>
 
                           <p className="mt-4 leading-relaxed text-gray-500">
-                            They have encountered all of my problems and they have a very responsive and friendly support team.
-                            It is pleasure doing business with them.
+                            They have encountered all of my problems and they
+                            have a very responsive and friendly support team. It
+                            is pleasure doing business with them.
                           </p>
                         </div>
                       </div>
