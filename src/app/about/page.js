@@ -409,7 +409,7 @@ const About = () => {
               </h3>
 
               <p className="mt-4 text-gray-500">
-                It's all about Customers and their Satisfactions.
+                It&apos;s all about Customers and their Satisfactions.
               </p>
 
               <div className="hidden lg:mt-8 lg:flex lg:gap-4">
@@ -651,7 +651,7 @@ const About = () => {
                           <p className="mt-4 leading-relaxed text-gray-500">
                             The Team and the company truly cares about their
                             customers. They went above and beyond to solve my
-                            issue, and I couldn't be happier with the outcome.
+                            issue, and I couldn&apos;t be happier with the outcome.
                           </p>
                         </div>
                       </div>
