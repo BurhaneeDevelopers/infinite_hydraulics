@@ -222,7 +222,7 @@ h2 {
 }
 
 section#services {
-  height: 100vh;
+  height: auto;
   width: 100%;
   display: grid;
   place-items: center;

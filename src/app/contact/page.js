@@ -158,7 +158,7 @@ const Contact = () => {
                   Phone
                 </h2>
                 <p className="mt-2 text-sm text-gray-500 ">
-                  Mon-Fri from 9am to 7pm.
+                  Mon-Sat from 9am to 7pm.
                 </p>
                 <p className="mt-2 text-sm text-[#4f8a8b]">
                   <a href="tel:+918939801621">+918939801621</a>

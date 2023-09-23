@@ -245,6 +245,8 @@ const About = () => {
       </section>
 
       <div className="p-10">
+
+        
         
         <section className="flex justify-center items-center">
           <marquee behavior="scroll" direction="horizontal" scrollamount="20">
@@ -410,9 +412,7 @@ const About = () => {
               </h3>
 
               <p className="mt-4 text-gray-500">
-                Lorem ipsum, dolor sit amet consectetur adipisicing elit.
-                Voluptas veritatis illo placeat harum porro optio fugit a culpa
-                sunt id!
+              It's all about Customers and their Satisfactions.
               </p>
 
               <div className="hidden lg:mt-8 lg:flex lg:gap-4">
@@ -509,21 +509,17 @@ const About = () => {
 
                         <div className="mt-4">
                           <p className="text-2xl font-bold text-600 text-[#4F8A8B] sm:text-3xl">
-                            Stayin&apos; Alive
+                            Testimonial
                           </p>
 
                           <p className="mt-4 leading-relaxed text-gray-500">
-                            No, Rose, they are not breathing. And they have no
-                            arms or legs … Where are they? You know what? If we
-                            come across somebody with no arms or legs, do we
-                            bother resuscitating them? I mean, what quality of
-                            life do we have there?
+                            I Have been with this company for a long time and i cant praise this company enough. Their products are top-notch,and their customer service is unmatched.
                           </p>
                         </div>
                       </div>
 
                       <footer className="mt-8 text-sm text-gray-500">
-                        &mdash; Michael Scott
+                        &mdash; Sarrah M
                       </footer>
                     </blockquote>
                   </div>
@@ -580,21 +576,17 @@ const About = () => {
 
                         <div className="mt-4">
                           <p className="text-2xl font-bold text-600 text-[#4F8A8B] sm:text-3xl">
-                            Stayin&apos; Alive
+                            Testimonial
                           </p>
 
                           <p className="mt-4 leading-relaxed text-gray-500">
-                            No, Rose, they are not breathing. And they have no
-                            arms or legs … Where are they? You know what? If we
-                            come across somebody with no arms or legs, do we
-                            bother resuscitating them? I mean, what quality of
-                            life do we have there?
+                            I was a skeptical at first, but after trying their services, I am a believer! They exceeded my expectations and delivered results beyond what could i have hoped for.
                           </p>
                         </div>
                       </div>
 
                       <footer className="mt-8 text-sm text-gray-500">
-                        &mdash; Michael Scott
+                        &mdash; John R
                       </footer>
                     </blockquote>
                   </div>
@@ -651,21 +643,152 @@ const About = () => {
 
                         <div className="mt-4">
                           <p className="text-2xl font-bold text-600 text-[#4F8A8B] sm:text-3xl">
-                            Stayin&apos; Alive
+                            Testimonial
                           </p>
 
                           <p className="mt-4 leading-relaxed text-gray-500">
-                            No, Rose, they are not breathing. And they have no
-                            arms or legs … Where are they? You know what? If we
-                            come across somebody with no arms or legs, do we
-                            bother resuscitating them? I mean, what quality of
-                            life do we have there?
+                            The Team and the company truly cares about their customers. They went above and beyond to solve my issue, and I couldn't be happier with the outcome.
                           </p>
                         </div>
                       </div>
 
                       <footer className="mt-8 text-sm text-gray-500">
-                        &mdash; Michael Scott
+                        &mdash; Emily S
+                      </footer>
+                    </blockquote>
+                  </div>
+
+                  <div className="swiper-slide">
+                    <blockquote className="flex h-full flex-col justify-between bg-white p-12">
+                      <div>
+                        <div className="flex gap-0.5 text-500 text-[#4F8A8B]">
+                          <svg
+                            className="h-5 w-5"
+                            fill="currentColor"
+                            viewBox="0 0 20 20"
+                            xmlns="http://www.w3.org/2000/svg"
+                          >
+                            <path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z" />
+                          </svg>
+
+                          <svg
+                            className="h-5 w-5"
+                            fill="currentColor"
+                            viewBox="0 0 20 20"
+                            xmlns="http://www.w3.org/2000/svg"
+                          >
+                            <path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z" />
+                          </svg>
+
+                          <svg
+                            className="h-5 w-5"
+                            fill="currentColor"
+                            viewBox="0 0 20 20"
+                            xmlns="http://www.w3.org/2000/svg"
+                          >
+                            <path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z" />
+                          </svg>
+
+                          <svg
+                            className="h-5 w-5"
+                            fill="currentColor"
+                            viewBox="0 0 20 20"
+                            xmlns="http://www.w3.org/2000/svg"
+                          >
+                            <path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z" />
+                          </svg>
+
+                          <svg
+                            className="h-5 w-5"
+                            fill="currentColor"
+                            viewBox="0 0 20 20"
+                            xmlns="http://www.w3.org/2000/svg"
+                          >
+                            <path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z" />
+                          </svg>
+                        </div>
+
+                        <div className="mt-4">
+                          <p className="text-2xl font-bold text-600 text-[#4F8A8B] sm:text-3xl">
+                            Testimonial
+                          </p>
+
+                          <p className="mt-4 leading-relaxed text-gray-500">
+                            The quality of their work is outstanding. I have recommended to friend and family, and they have all the same exceptional experience.
+                          </p>
+                        </div>
+                      </div>
+
+                      <footer className="mt-8 text-sm text-gray-500">
+                        &mdash; David L
+                      </footer>
+                    </blockquote>
+                  </div>
+
+                  <div className="swiper-slide">
+                    <blockquote className="flex h-full flex-col justify-between bg-white p-12">
+                      <div>
+                        <div className="flex gap-0.5 text-500 text-[#4F8A8B]">
+                          <svg
+                            className="h-5 w-5"
+                            fill="currentColor"
+                            viewBox="0 0 20 20"
+                            xmlns="http://www.w3.org/2000/svg"
+                          >
+                            <path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z" />
+                          </svg>
+
+                          <svg
+                            className="h-5 w-5"
+                            fill="currentColor"
+                            viewBox="0 0 20 20"
+                            xmlns="http://www.w3.org/2000/svg"
+                          >
+                            <path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z" />
+                          </svg>
+
+                          <svg
+                            className="h-5 w-5"
+                            fill="currentColor"
+                            viewBox="0 0 20 20"
+                            xmlns="http://www.w3.org/2000/svg"
+                          >
+                            <path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z" />
+                          </svg>
+
+                          <svg
+                            className="h-5 w-5"
+                            fill="currentColor"
+                            viewBox="0 0 20 20"
+                            xmlns="http://www.w3.org/2000/svg"
+                          >
+                            <path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z" />
+                          </svg>
+
+                          <svg
+                            className="h-5 w-5"
+                            fill="currentColor"
+                            viewBox="0 0 20 20"
+                            xmlns="http://www.w3.org/2000/svg"
+                          >
+                            <path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z" />
+                          </svg>
+                        </div>
+
+                        <div className="mt-4">
+                          <p className="text-2xl font-bold text-600 text-[#4F8A8B] sm:text-3xl">
+                            Testimonial
+                          </p>
+
+                          <p className="mt-4 leading-relaxed text-gray-500">
+                            They have encountered all of my problems and they have a very responsive and friendly support team.
+                            It is pleasure doing business with them.
+                          </p>
+                        </div>
+                      </div>
+
+                      <footer className="mt-8 text-sm text-gray-500">
+                        &mdash; Maria H
                       </footer>
                     </blockquote>
                   </div>
